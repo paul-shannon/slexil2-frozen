@@ -35,7 +35,7 @@ interactive webpage.  We use the first three lines of Dante's Inferno,
 read by Roberto Benigni, to test and demonstrate the software.  The
 live result can be seen and heard at [pshannon.net](https://pshannon.net/inferno/).
 
-EAF XML looks like this:
+The source EAF XML looks like this:
 
 ![alt tag](https://github.com/paul-shannon/slexil2/blob/main/docs/inferno-eaf.png)
 
