@@ -1,13 +1,12 @@
 # slexil2
 
-This repo, slexil2, is a small work in progress, a modest refactoring
+This repo is a small work in progress, a modest refactoring
 of the core original
-[SLEXIL](https://github.com/davidjamesbeck/slexil), a collaborative
-effort
-between me and linguist Davd Beck.  I have undertaken this project to
+[SLEXIL](https://github.com/davidjamesbeck/slexil) software, a collaborative
+effort between me and linguist Davd Beck.  I have undertaken this project to
 remind myself of sound coding and project structuring practices in
 Python, after several years in which I have work primarily in <b><i>R</i></b>.
-
+More revisions and additions soon.
 
 ## sləxil: Software Linking ELAN XML to Illuminated Language ##
 
@@ -35,11 +34,6 @@ transforms that xml, and accompanying audio, into a modestly
 interactive webpage.  We use the first three lines of Dante's Inferno,
 read by Roberto Benigni, to test and demonstrate the software.  The
 live result can be seen and heard at [pshannon.net](https://pshannon.net/inferno/).
-
-A derived version of the slexil software, souped-up with much more
-interactivity - but a little rough around the edges as befits my own
-purposes in studying Lushootseed - can be found here:  [How Daylight Was
-Stolen - Harry Moses, 1952](https://pshannon.net/daylight-prosody/).  
 
 EAF XML looks like this:
 
