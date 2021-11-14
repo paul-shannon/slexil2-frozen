@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 vpy363
+tests/tmp*.html

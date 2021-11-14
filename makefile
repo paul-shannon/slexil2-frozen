@@ -6,5 +6,6 @@ install:
 	pip3 install -r requirements.txt
 
 test:
-	@echo test target not yet set up
+	(cd tests; make all)
+
 
