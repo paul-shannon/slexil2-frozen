@@ -34,8 +34,12 @@ flexible XML format called
 transforms that xml, and accompanying audio, into a modestly
 interactive webpage.  We use the first three lines of Dante's Inferno,
 read by Roberto Benigni, to test and demonstrate the software.  The
-live result can be viewed and heard
-[here](https://pshannon.net/inferno/).
+live result can be seen and heard at [pshannon.net](https://pshannon.net/inferno/).
+
+A derived version of the slexil software, souped-up with much more
+interactivity - but a little rough around the edges as befits my own
+purposes in studying Lushootseed - can be found here:  [How Daylight Was
+Stolen - Harry Moses, 1952](https://pshannon.net/daylight-prosody/).  
 
 EAF XML looks like this:
 
