@@ -14,7 +14,7 @@ Python, after several years working primarily in <b><i>R</i></b>.
 The name builds upon the Lushootseed word for daylight, "sləxil", a
 central topic in the origin story told by Sauk-Suittale elder, Harry
 Moses - a story which both Beck (professionally) and Shannon
-(informally) have spent much on time.
+(informally) have spent much time.
 
 I am grateful to David for his patience over the years as he guided me
 through the intracies of this beautiful language, the inner secrets of
