@@ -39,9 +39,7 @@ live result can be viewed and heard
 
 EAF XML looks like this:
 
-![alt tag](https://raw.githubusercontent.com/paul-shannon/slexil2/master/docs/inforno-eaf.png)
-
-
+![alt tag](https://github.com/paul-shannon/slexil2/blob/main/docs/inferno-eaf.png)
 
 
 
