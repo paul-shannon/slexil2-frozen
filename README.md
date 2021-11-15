@@ -1,10 +1,10 @@
 # slexil2
 
-This repo is a small work in progress, a modest refactoring
+This repo is a work in progress, a modest refactoring
 of the core original
-[SLEXIL](https://github.com/davidjamesbeck/slexil) software, a collaborative
-effort between me and linguist Davd Beck.  I have undertaken this project to
-remind myself of sound coding and project structuring practices in
+[SLEXIL](https://github.com/davidjamesbeck/slexil) software, which was a collaborative
+effort between me and linguist Davd Beck.  I have undertaken this
+refactoing to remind myself of sound coding and project structuring practices in
 Python, after several years in which I have work primarily in <b><i>R</i></b>.
 More revisions and additions soon.
 
