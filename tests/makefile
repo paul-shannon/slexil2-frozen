@@ -1,5 +1,5 @@
 default:
-	@echo targets: all, morphemeBloss, ijalLine, fullText, extractAudio, clean
+	@echo targets: all, morphemeGloss, ijalLine, fullText, extractAudio, clean
 
 all: morphemeGloss ijalLine fullText
 
