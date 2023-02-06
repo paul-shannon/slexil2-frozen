@@ -27,6 +27,47 @@ lines:
     morphemeGloss: [PAST=CTD–DSTR–discuss=now,PROX,people]
     english: The people talked it over.
 
+  - lineNumber: 4
+    startTime: 15045
+    endTime: 17341
+    lushootseed: ʔəsčaləxʷ kʷi gʷədəxʷkʷədxʷ čəɬ? (kʷi sləx̌il)
+    morphemes: [ʔəs–čal=əxʷ,kʷi,gʷə=dəxʷ=kʷəd–dxʷ,čəɬ]
+    morphemeGloss: [STAT–how=now,REM,SBJ=ADNM=taken–DC,1PL.PO]
+    english: “How can we manage to obtain it?”
+
+
+  - lineNumber: 5
+    startTime: 17871
+    endTime: 23110
+    lushootseed: ʔaʔ kʷi sləx̌il ʔal kʷi q’xʷul’gʷədxʷ gʷəl ʔəsčal kʷi gʷədəxʷkʷədxʷ čəɬ
+    morphemes: [ʔaʔ,kʷi,sləx̌il,ʔal,kʷi,q’xʷ•ul’gʷədxʷ,gʷəl,ʔəs–čal,kʷi,gʷə=dəxʷ=kʷəd–dxʷ,čəɬ]
+    morphemeGloss: [be.there,REM,daylight,at,REM,upstream•land,SCONJ,STAT–how,REM,SBJ=ADNM=taken–DC,1PL.PO]
+    english: “Daylight is up there in the upriver country but how can we manage to get it?”
+
+#  - lineNumber: 
+#    startTime: 
+#    endTime: 
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 
+#    startTime: 
+#    endTime: 
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 
+#    startTime: 
+#    endTime: 
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
 #  - lineNumber: 
 #    startTime: 
 #    endTime: 

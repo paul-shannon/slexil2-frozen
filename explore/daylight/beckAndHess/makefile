@@ -25,7 +25,7 @@ extractAudio:
                                $(STORY).eaf \
                                audio
 customize:
-	sed -f ../insertCustomCode.sed $(STORY).html  > $(STORY)-anno.html
+	sed -f ../insertCustomCode.sed $(STORY)0.html  > $(STORY).html
 
 
 
