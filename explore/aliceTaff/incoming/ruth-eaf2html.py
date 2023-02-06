@@ -24,9 +24,7 @@ htmlText = indent(text.toHTML())
 # jsText = text.getJavascript()
 
 tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".html", dir=".")
-try:
-   tmp.write(bytes(htmlText, "utf-8"))
-   tmp.close()
-   print("wrote %s" % tmp.name)
-finally:
-   os.system("open %s" % tmp.name)
+f = open("ruth0.html", "wb")
+f.write(bytes(htmlText, "utf-8"))
+f.close()
+print("wrote %s" % f.name)

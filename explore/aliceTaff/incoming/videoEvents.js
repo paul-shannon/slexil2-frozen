@@ -1,7 +1,12 @@
+<script>
+    
+console.log("--- executing videoEvents.js");
+
 vp = $("#videoPlayer");
 
 vp.on("timeupdate", function(e){
    tCurrent = Math.round(vp.get(0).currentTime * 1000)
+   //console.log("timeupdate");
    for(lineTimes of timeStamps){
        if(lineTimes.start <= tCurrent && lineTimes.end >= tCurrent){
            //console.log("playing line " + lineTimes.id);
@@ -36,3 +41,4 @@ function scrollAndHighlight(lineNumber){
 
 }  // scrollAndHighlight
 //--------------------------------------------------------------------------------
+</script>
