@@ -1,0 +1,40 @@
+title: How Daylight Was Stolen
+narrator: Harry Moses
+textEntry: Paul Shannon
+
+lines:
+  - lineNumber: 1
+    startTime: 0
+    endTime: 6600
+    lushootseed: ʔal kʷi tuhaʔkʷ gʷəl xʷiʔ gʷətusləx̌il.
+    morphemes: [ʔal,kʷi,tu=,ʔal,kʷi,tu=haʔkʷ,gʷəl,xʷiʔ,gʷə=tu=s-ləx̌-il]
+    morphemeGloss: [at,REM,PAST,at,REM,PAST=long.time,SCONJ,NEG,SBJ=PAST=daylight]
+    english: In the distant past, there was no daylight.
+
+  - lineNumber: 2
+    startTime: 6600
+    endTime: 12336
+    lushootseed: tiʔəʔ swatixʷtəd gʷəl tasbəsad ʔal kʷi tuhaʔkʷ
+    morphemes: [tiʔəʔ,swatixʷtəd,gʷəl,"tu=?as-bəsad",ʔal,kʷi,tu-haʔkʷ]
+    morphemeGloss: [PROX,land,SCONJ,PAST=STAT–dark,at,REM,PAST=long.time]
+    english: The land, it was dark in the distant past.
+
+  - lineNumber: 3
+    startTime: 12336
+    endTime:   15044
+    lushootseed: tudxʷadhadəxʷ tiʔəʔ ʔaciɬtalbixʷ
+    morphemes: [tu=dxʷ–had–had=əxʷ, tiʔəʔ, ʔaciɬtalbixʷ]
+    morphemeGloss: [PAST=CTD–DSTR–discuss=now,PROX,people]
+    english: The people talked it over.
+
+#  - lineNumber: 
+#    startTime: 
+#    endTime: 
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+
+
+
