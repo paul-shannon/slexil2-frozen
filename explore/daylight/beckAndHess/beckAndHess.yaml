@@ -44,33 +44,131 @@ lines:
     morphemeGloss: [be.there,REM,daylight,at,REM,upstream•land,SCONJ,STAT–how,REM,SBJ=ADNM=taken–DC,1PL.PO]
     english: “Daylight is up there in the upriver country but how can we manage to get it?”
 
-#  - lineNumber: 
-#    startTime: 
-#    endTime: 
-#    lushootseed: 
-#    morphemes: []
-#    morphemeGloss: []
-#    english:
+  - lineNumber: 6
+    startTime: 0
+    endTime: 0
+    lushootseed: tuhuyucutəxʷ tiʔəʔ səsaliʔ ləgʷləgʷəb
+    morphemes: [tu=huyu–t–sut=əxʷ,tiʔəʔ,səsaliʔ,ləgʷ–ləgʷəb]
+    morphemeGloss: [PAST=made–ICS–REFL=now,PROX,two:HMN,DSTR–youth]
+    english: These two youths prepared themselves.
 
-#  - lineNumber: 
-#    startTime: 
-#    endTime: 
-#    lushootseed: 
-#    morphemes: []
-#    morphemeGloss: []
-#    english:
+  - lineNumber: 7
+    startTime: 0
+    endTime: 0
+    lushootseed: tuc’agʷacutəxʷ
+    morphemes: [tu=c’agʷa–t–sut=əxʷ]
+    morphemeGloss: [PAST=washed–ICS–REFL=now]
+    english: They bathed.
 
-#  - lineNumber: 
-#    startTime: 
-#    endTime: 
-#    lushootseed: 
-#    morphemes: []
-#    morphemeGloss: []
-#    english:
+  - lineNumber: 8
+    startTime: 0
+    endTime: 0
+    lushootseed: tuhuyucut həlgʷəʔ dxʷʔal sxʷəxʷaʔxʷəʔs gʷəsutəlaʷils əlgʷəʔ
+    morphemes: [tu=huyu–t–sut,həlgʷəʔ,dxʷ–ʔal,s=xʷəxʷaʔxʷəʔ=s,gʷə=s=ʔu–təlaʷil=s,əlgʷəʔ]
+    morphemeGloss: [past=made–ics–refl,pl,cntrpt–at,nm=swift=3po,sbj=nm=pfv–run=3po,PL]
+    english: They prepared themselves in order to be swift as they run.
 
-#  - lineNumber: 
-#    startTime: 
-#    endTime: 
+  - lineNumber: 9
+    startTime: 0
+    endTime: 0
+    lushootseed: tiʔəʔ qawq’s ʔi tiʔəʔ bibščəb kʷi tuhuyucut
+    morphemes: [tiʔəʔ,qawq’s,ʔi,tiʔəʔ,bi–bəščəb,kʷi,tu=huyu–t–sut]
+    morphemeGloss: [prox,raven,conj,prox,attn–mink,rem,past=made–ics–refl]
+    english: The ones who prepared themselves were Raven and Little Mink.
+
+  - lineNumber: 10
+    startTime: 0
+    endTime: 0
+    lushootseed: tut’ədalgʷiɬ əlgʷəʔ
+    morphemes: [tu=t’əd•al•gʷiɬ,əlgʷəʔ]
+    morphemeGloss: [past=lined.up•cnn•canoe,pl]
+    english: They lined up the canoes.
+
+  - lineNumber: 11
+    startTime: 0
+    endTime: 0
+    lushootseed: tuʔaʔ dᶻəɬ ti ƛ’əlayʔ gʷəl tux̌ʷ xʷiʔ uʔxʷ gʷəsəsaxʷəbabacs ʔal kʷi sxʷəʔaʔxʷəʔils
+    morphemes: [tu=ʔaʔ,dᶻəɬ,ti,ƛ’əlayʔ,gʷəl,tux̌ʷ,xʷiʔ,uʔxʷ,gʷə=s=lə=saxʷəb•abac=s,ʔal,kʷi,s=xʷəʔaʔxʷəʔ–il=s]
+    morphemeGloss: [past=be.there,ptcl,spec,canoe,sconj,just,neg,ptcl,sbj=nm=prog=jump•body=3po,at,rem,nm=swift–inch=3po]
+    english: There must have been some shovel-nosed canoes but they could not yet jump over them to become swift.
+
+  - lineNumber: 12
+    startTime: 0
+    endTime: 0
+    lushootseed: ləcəbagʷiɬil tiʔəʔ ʔəsx̌ək’ʷtxʷ əlgʷəʔ ƛ’əlayʔ
+    morphemes: [lə=cəb•a•gʷiɬ–il,tiʔəʔ,ʔəs–x̌ək’ʷ–txʷ,əlgʷəʔ,ƛ’əlayʔ]
+    morphemeGloss: [prog=two•cnn•canoe–inch,prox,stat–overturned–ecs,pl,canoe]
+    english: They had two canoes overturned.
+
+  - lineNumber: 13
+    startTime: 0
+    endTime: 0
+    lushootseed: cəbagʷiɬəxʷ kʷi ƛ’udəxʷsaxʷəbabacəds əlgʷəʔ
+    morphemes: [cəb•a•gʷiɬ=əxʷ,kʷi,ƛ’u=dəxʷ=saxʷəb•abac–d=s,əlgʷəʔ]
+    morphemeGloss: [two•cnn•canoe=now,rem,hab=adnm=jump•body–ics=3po,pl]
+    english: Now what they would jump over were two canoes.
+
+  - lineNumber: 14
+    startTime: 0
+    endTime: 0
+    lushootseed: tuhaʔkʷ tuhuyucut əlgʷəʔ dxʷʔal kʷi gʷədəxʷxʷəʔaʔxʷəʔils lətəlawil
+    morphemes: [tu=haʔkʷ,tu=huyu–t–sut,əlgʷəʔ,dxʷ–ʔal,kʷi,gʷə=dəxʷ=xʷəʔaʔxʷəʔ–il=s,lə=təlaʷil]
+    morphemeGloss: [past=long.time,past=made–ics–refl,pl,cntrpt–at,rem,sbj=adnm=swift–inch=3po,prog=run]
+    english: For a long time they trained to become swift as they run.
+
+  - lineNumber: 15
+    startTime: 0
+    endTime: 0
+    lushootseed: ləɬixʷalgʷiɬil tiʔəʔ tasx̌ək’ʷtxʷ həlgʷəʔ ƛ’əlayʔ dəxʷəsaxʷəbabacs əlgʷəʔ
+    morphemes: [lə=ɬixʷ•al•gʷiɬ–il,tiʔəʔ,tu=ʔas–x̌ək’ʷ–txʷ,həlgʷəʔ,ƛ’əlayʔ,dəxʷ=lə=saxʷəb•abac=s,əlgʷəʔ]
+    morphemeGloss: [prog=three•cnn•canoe–inch,prox,past=stat–overturned–ecs,pl,canoe,adnm=prog=jump•body=3po,pl]
+    english: It came to where they had three canoes overturned which they were jumping.
+
+
+  - lineNumber: 16
+    startTime: 0
+    endTime: 0
+    lushootseed: ʔaləxʷ kʷi tubuusalgʷiɬil kʷi tuasx̌ək’ʷ ƛ’əlayʔ gʷəl tusaxʷəbabacəd tiʔəʔ buusalgʷiɬ ƛ’əlayʔ gʷəl tuʔahəxʷ
+    morphemes: [ʔal=əxʷ,kʷi,tu=buus•al•gʷiɬ–il,kʷi,tu=ʔas–x̌ək’ʷ,ƛ’əlayʔ,gʷəl,tu=saxʷəb•abac–d,tiʔəʔ,buus•al•gʷiɬ,ƛ’əlayʔ,gʷəl,tu=ʔa=əxʷ]
+    morphemeGloss: [at=now,rem,past=four•cnn•canoe–inch,rem,past=stat–overturned,canoe,sconj,past=jump•body–ics,prox,four•cnn•canoe,canoe,sconj,past=be.there=now]
+    english: When it became four canoes and they jumped over these four, then it was there.
+
+  - lineNumber: 17
+    startTime: 0
+    endTime: 0
+    lushootseed: gʷəl tudxʷcutəb həlgʷəʔ
+    morphemes: [gʷəl,tu=dxʷ–cut–əb,həlgʷəʔ]
+    morphemeGloss: [sconj,past=ctd–speak–dsd,pl]
+    english: And then they thought,
+
+  - lineNumber: 18
+    startTime: 0
+    endTime: 0
+    lushootseed: ʔuˑ xʷiʔəxʷ kʷi ʔahəxʷ gʷəčaldubuɬ
+    morphemes: [ʔu,xʷiʔ=əxʷ,kʷi,ʔa=əxʷ,gʷə=čal–dxʷ–buɬ]
+    morphemeGloss: [intj,neg=now,rem,be.there=now,sbj=chased–dc–1pl.obj]
+    english: “Oh, now there is nothing that can catch us.”
+
+  - lineNumber: 19
+    startTime: 0
+    endTime: 0
+    lushootseed: siʔəxʷ čəɬ ƛ’ubəxʷ dxʷʔal kʷi gʷəsuʔux̌ʷc čəɬ kʷi sləx̌il ʔal kʷi dəxʷʔacəc 
+    morphemes: [siʔ=əxʷ,čəɬ,ƛ’ub=əxʷ,dxʷ–ʔal,kʷi,gʷə=s=ʔu–ʔux̌ʷ–c,čəɬ,kʷi,sləx̌il,ʔal,kʷi,dəxʷ=ʔacəc]
+    morphemeGloss: [here=now,1pl.sub,well=now,cntrpt–at,rem,sbj=nm=pfv–go–altv,1pl.po,rem,daylight,at,rem,adnm=be.in.place]
+    english: “We are good enough to go after daylight where it is.”
+
+  - lineNumber: 20
+    startTime: 0
+    endTime: 0
+    lushootseed: tuʔuluɬəxʷ tiʔəʔ diʔəʔ bibščəb ʔi tiʔəʔ qaw’qs
+    morphemes: [tu=ʔuluɬ=əxʷ,tiʔəʔ,diʔəʔ,bi–bəščəb,ʔi,tiʔəʔ,qaw’qs]
+    morphemeGloss: [past=travel.by.water=now,prox,here,attn–mink,conj,prox,raven]
+    english: Now Little Mink and Raven set out by canoe.
+
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
 #    lushootseed: 
 #    morphemes: []
 #    morphemeGloss: []

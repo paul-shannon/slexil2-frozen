@@ -22,7 +22,6 @@ text.getTierSummary()
 htmlText = indent(text.toHTML())
 # jsText = text.getJavascript()
 
-tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".html", dir=".")
 f = open("beckAndHess0.html", "wb")
 f.write(bytes(htmlText, "utf-8"))
 f.close()
