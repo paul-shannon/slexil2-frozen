@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <link rel = "stylesheet" type = "text/css" href = "ijal.css" />
+    <!-- headCustomizationHook -->
+  </head>
+  <body>
+
+    <div id="infoDiv" style=" margin: 100px; margin-top: 20px; margin-bottom: 3px;">
+    
+     <center>
+       <h3>Nora Dauenhauer, Ḵaanáḵ Ruth Demmert, and G̱uneiwtí Marsha Hotch.</h3>
+      </center>
+
+       Speakers are Ḵeixwnéi Nora Dauenhauer, Ḵaanáḵ Ruth Demmert, and
+       G̱uneiwtí Marsha Hotch. Recorded June 29, 2007, at Bill Ray
+       Center in Juneau, Alaska, by Ljáaḵk Alice Taff.
+
+     <p>
+
+        This material is based on work supported by National Science
+        Foundation grant 0853788 to the University of Alaska Southeast
+        with Ljáaḵkʼ Alice Taff as Principal Investigator, and by
+        National Endowment for the Humanities fellowship 266286-19 to
+        Ljáaḵkʼ Alice Taff. Any opinions, findings, and conclusions or
+        recommendations expressed in this material are those of the
+        authors and do not necessarily reflect the views of the
+        National Science Foundation or National Endowment for the
+        Humanities.
+      <p>
+
+      Tlingit transcription by Daaljíni Mary Folletti and Kingeistí
+      David Katzeek. English translation by Daaljíni Mary
+      Foletti. Edited by X̱’aagi Sháawu Keri Edwards Eggleston and
+      Ḵaachkoo.aaḵw Helen Sarabia, also by X̱ʼunei Lance
+      Twitchell.
+
+  </div id="infoDiv">
+
+
+  <div id="movieDiv" style="margin: 40px;">
+    <video id="videoPlayer"  controls width="800">
+      <source src="1RuthNora2Wide.m4v" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+  </div id="movieDiv">
+
+    <div id="textDiv">
+      <div class="line-wrapper" id="2">
+        <div class="line-sidebar">2)<audio id="a1377"><source src="audio/a1377.wav"/></audio><button onclick="playSample('a1377')">🔈</button></div>
+        <div class="line-content">
+          <div class="line">
+            <div class="speech-tier">At dudzix̱éet kʼidéin.</div>
+          </div>
+          <div class="freeTranslation-tier">It really is a breeding month.</div>
+          <div class="annotationDiv"></div>
+        </div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <script src="ijalUtils.js"></script>
+    <script type="text/javascript">window.timeStamps=[{ 'id' : '1', 'start' : 5090, 'end' : 7530},]</script>
+<script>
+    
+console.log("--- executing videoEvents.js");
+
+vp = $("#videoPlayer");
+
+vp.on("timeupdate", function(e){
+   tCurrent = Math.round(vp.get(0).currentTime * 1000)
+   //console.log("timeupdate");
+   for(lineTimes of timeStamps){
+       if(lineTimes.start <= tCurrent && lineTimes.end >= tCurrent){
+           //console.log("playing line " + lineTimes.id);
+           var lineNumber = parseInt(lineTimes.id)
+           scrollAndHighlight(lineNumber)
+          }
+      } // for lineTimes
+   })
+
+//--------------------------------------------------------------------------------
+function scrollAndHighlight(lineNumber){
+
+   //var newTop = Math.round($('#' + lineNumber).position().top) - 100;
+   //var options = {top: newTop, left: 0, behavior: "smooth"}
+   //$(".line-wrapper").removeClass("current-line")
+   //$('#' + lineNumber).addClass("current-line")
+
+   // from here:
+   // https://stackoverflow.com/questions/27980084/scrolling-to-a-element-inside-a-scrollable-div-with-pure-javascript
+   var scrollingDivTop = document.getElementById("textDiv").offsetTop
+   //console.log("texDiv top: " + scrollingDivTop);
+
+   var lineDivTop = document.getElementById(lineNumber).offsetTop - scrollingDivTop;
+   lineDivTop -= 100;
+   //console.log("line top for " + lineNumber + ": " + lineDivTop);
+
+   var options = {top: lineDivTop, left: 0, behavior: "smooth"}
+   document.getElementById("textDiv").scrollTo(options)
+
+   $(".line-wrapper").removeClass("current-line")
+   $('#' + lineNumber).addClass("current-line")
+
+}  // scrollAndHighlight
+//--------------------------------------------------------------------------------
+</script>
+  </body>
+</html>
