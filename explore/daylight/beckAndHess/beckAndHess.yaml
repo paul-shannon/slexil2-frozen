@@ -166,6 +166,158 @@ lines:
     english: Now Little Mink and Raven set out by canoe.
 
 
+  - lineNumber: 21
+    startTime: 104716
+    endTime: 108897
+    lushootseed: tugʷəč’ədaxʷ əlgʷəʔ kʷi sləx̌il dxʷʔal kʷi dxʷq’xʷul’gʷədxʷ
+    morphemes: [tu=gʷəč’–d=axʷ,əlgʷəʔ,kʷi,sləx̌il,dxʷ–ʔal,kʷi,dxʷ–q’xʷ•ul’gʷədxʷ]
+    morphemeGloss: [past=search–ics=now,pl,rem,daylight,cntrpt–at,rem,cntrpt–upstream•land]
+    english: They sought for daylight in the land upstream.
+
+  - lineNumber: 22
+    startTime: 111739
+    endTime: 119422
+    lushootseed: x̌ʷul’əxʷ əlgʷəʔ tuləč’itil dxʷʔal tiʔəʔ dəxʷʔa ʔə kʷi sləx̌il ƛ’uləx̌iličəxʷ əlgʷəʔ 
+    morphemes: [x̌ʷul’=əxʷ,əlgʷəʔ,tu=lə=č’it–il,dxʷ–ʔal,tiʔəʔ,dəxʷ=ʔa,ʔə,kʷi,sləx̌il,ƛ’u=ləx̌–il•ič=əxʷ,əlgʷəʔ]
+    morphemeGloss: [only=now,pl,past=prog=near–inch,cntrpt–at,prox,adnm=be.there,pr,rem,daylight,hab=light–inch•covering=now,pl]
+    english: As they drew near this place of daylight, light enveloped them.
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
+#  - lineNumber: 21
+#    startTime: 0
+#    endTime: 0
+#    lushootseed: 
+#    morphemes: []
+#    morphemeGloss: []
+#    english:
+
 #  - lineNumber: 21
 #    startTime: 0
 #    endTime: 0
