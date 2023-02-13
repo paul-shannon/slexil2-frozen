@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" VERSION="2.8" FORMAT="2.8" AUTHOR="Paul Shannon" DATE="2023-02-13T13:09:52" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+   <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+      <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/paul/github/slexil/explorations/generateEAF/pythonDemos/daylight1/daylight_1_9.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file://./daylight_1_9.wav"/>
+      <PROPERTY NAME="lastUsedAnnotationId">340</PROPERTY>
+   </HEADER>
+   <TIME_ORDER>
+      <TIME_SLOT TIME_SLOT_ID="ts0" TIME_VALUE="12336"/>
+      <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="17777"/>
+      <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="23895"/>
+      <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="88075"/>
+      <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="93611"/>
+      <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="105180"/>
+      <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="108783"/>
+      <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="111638"/>
+      <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="119617"/>
+      <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="144827"/>
+      <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="149278"/>
+      <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="149367"/>
+      <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="154705"/>
+      <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="154750"/>
+      <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="157690"/>
+      <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="332187"/>
+      <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="336189"/>
+   </TIME_ORDER>
+   <TIER DEFAULT_LOCALE="tr" LINGUISTIC_TYPE_REF="speech" TIER_ID="lushootseed">
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts0" TIME_SLOT_REF2="ts1">
+            <ANNOTATION_VALUE>tudxʷadhadəxʷ tiʔəʔ ʔaciɬtalbixʷ.  ʔəsčaləxʷ kʷi gʷədəxʷkʷədxʷ čəɬ kʷi sləx̌il.</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+            <ANNOTATION_VALUE>ʔaʔ kʷi sləx̌il ʔal kʷi q’xʷul’gʷədxʷ gʷəl ʔəsčal kʷi gʷədəxʷkʷədxʷ čəɬ</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ANNOTATION_VALUE>siʔəxʷ čəɬ ƛ’ubəxʷ dxʷʔal kʷi gʷəsuʔux̌ʷc čəɬ kʷi sləx̌il ʔal kʷi dəxʷʔacəc</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ANNOTATION_VALUE>(21) tusəgʷaʔxʷ ʔux̌ʷ tux̌ʷ xʷiʔ uʔxʷ kʷi sləx̌il tux̌ʷ xʷiʔ uʔxʷ q’xʷul’gʷədxʷ</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ANNOTATION_VALUE>(22) x̌ʷul’əxʷ əlgʷəʔ tuləč’itil dxʷʔal tiʔəʔ dəxʷʔa ʔə kʷi sləx̌il ləx̌iličəxʷ əlgʷəʔ</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+            <ANNOTATION_VALUE>(28)-(29) ɬudxʷʔiwədəxʷ əlgʷəʔ gʷatəxʷ ʔə dibəɬ kʷi ɬuʔux̌ʷtxʷ kʷi sləx̌il</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+            <ANNOTATION_VALUE>(30)-(31) gʷəsdukʷ gʷəbək’ʷaɬi gʷəʔux̌ʷ yəx̌i čəɬ gʷəhaydub ləʔux̌ʷc čəɬ tiʔəʔ sləx̌il</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ANNOTATION_VALUE>(32) ɬuqadabid čəɬ ʔal kʷi ɬudəxʷʔacəc</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+            <ANNOTATION_VALUE>(77) diɬ tuspəkʷibids tiʔəʔ sləx̌il gʷəl tusaxʷəbtxʷ</ANNOTATION_VALUE>
+         </ALIGNABLE_ANNOTATION>
+      </ANNOTATION>
+   </TIER>
+   <TIER DEFAULT_LOCALE="tr" LINGUISTIC_TYPE_REF="morphemes" PARENT_REF="lushootseed" TIER_ID="morphemes">
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a1">
+            <ANNOTATION_VALUE>tu=dxʷ–had–had=əxʷ	tiʔəʔ	ʔaciɬtalbixʷ	ʔəs–čal=əxʷ	kʷi	gʷə=dəxʷ=kʷəd–dxʷ	čəɬ	kʷi	sləx̌il</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a2">
+            <ANNOTATION_VALUE>ʔaʔ	kʷi	sləx̌il	ʔal	kʷi	q’xʷ•ul’gʷədxʷ	gʷəl	ʔəs–čal	kʷi	gʷə=dəxʷ=kʷəd–dxʷ	čəɬ</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a3">
+            <ANNOTATION_VALUE>siʔ=əxʷ	čəɬ	ƛ’ub=əxʷ	dxʷ–ʔal	kʷi	gʷə=s=ʔu–ʔux̌ʷ–c	čəɬ	kʷi	sləx̌il	ʔal	kʷi	dəxʷ=ʔacəc</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a4">
+            <ANNOTATION_VALUE>tu=sə-gʷaʔxʷ	ʔux̌ʷ	tux̌ʷ	xʷiʔ	uʔxʷ	kʷi	sləx̌il	tux̌ʷ	xʷiʔ	uʔxʷ	q’xʷul’gʷədxʷ</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a5">
+            <ANNOTATION_VALUE>x̌ʷul’=əxʷ	əlgʷəʔ	tu=lə=č’it–il	dxʷ–ʔal	tiʔəʔ	dəxʷʔa	ʔə	kʷi	sləx̌il	ləx̌–il•ič=əxʷ	əlgʷəʔ</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a6">
+            <ANNOTATION_VALUE>ɬu=dxʷ–ʔiwəd=əxʷ	əlgʷəʔ	gʷat=əxʷ	ʔə	dibəɬ	kʷi	ɬu=ʔux̌ʷ–txʷ	kʷi	sləx̌il</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a7">
+            <ANNOTATION_VALUE>gʷə=s=dukʷ	gʷə=bək’ʷ=aɬi	gʷə=ʔux̌ʷ	yəx̌i	čəɬ	gʷə=hay–dxʷ–b	lə=ʔux̌ʷ–c	čəɬ	tiʔəʔ	sləx̌il</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a8">
+            <ANNOTATION_VALUE>ɬu=qada–bi–d	čəɬ	ʔal	kʷi	ɬu=dəxʷ=ʔacəc</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a9">
+            <ANNOTATION_VALUE>diɬ	tu=s=pəkʷib–bi–d=s	tiʔəʔ	sləx̌il	gʷəl	tu=saxʷəb–txʷ</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+   </TIER>
+   <TIER DEFAULT_LOCALE="tr" LINGUISTIC_TYPE_REF="morphemeGloss" PARENT_REF="morphemes" TIER_ID="morphemeGloss">
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a10">
+            <ANNOTATION_VALUE>PAST=CTD–DSTR–discuss=now	PROX	people	STAT–how=now	REM	SBJ=ADNM=take–DC	1PL.PO	REM	daylight</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a11">
+            <ANNOTATION_VALUE>be.there	REM	daylight	at	REM	upstream•land	SCONJ	STAT–how	REM	SBJ=ADNM=take–DC	1PL.PO</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a12">
+            <ANNOTATION_VALUE>here=now	1PL.SUB	well=now	CNTRPT–at	REM	SBJ=NM=PFV–go–ALTV	1PL.PO	REM	daylight	at	REM	ADNM=be.in.place</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a13">
+            <ANNOTATION_VALUE>past=PROG–walk	go	but	not	yet	rem	daylight	but	not	yet	upstream•land</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a14">
+            <ANNOTATION_VALUE>only=now	pl	past=prog=near–inch	cntrpt–at	prox	adnm=be.there	pr	rem	daylight	light–inch•covering=now	pl</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a15">
+            <ANNOTATION_VALUE>irr=ctd–decide=now	pl	who=now	pr	we	rem	irr=go–ecs	rem	daylight</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a16">
+            <ANNOTATION_VALUE>sbj=nm=anormal	sbj=all=1pl.sbj	sbj=go	because	1pl.sub	sbj=known–dc–pass	prog=go–altv	1pl.sub	prox	daylight</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a17">
+            <ANNOTATION_VALUE>irr=steal–ss–ics	1pl.sub	at	rem	irr=adnm=be.in.place</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a18">
+            <ANNOTATION_VALUE>loc	past=nm=snatch–map–ics=3po	prox	daylight	sconj	past=jump–ecs</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+   </TIER>
+   <TIER DEFAULT_LOCALE="tr" LINGUISTIC_TYPE_REF="english" PARENT_REF="lushootseed" TIER_ID="english">
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a1">
+            <ANNOTATION_VALUE>The people talked it over. How can we manage to obtain the daylight?</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a2">
+            <ANNOTATION_VALUE>Daylight is up there in the upriver country but how can we manage to get it?</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a3">
+            <ANNOTATION_VALUE>We are good enough to go after daylight where it is.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a4">
+            <ANNOTATION_VALUE>They sought for daylight in the land upstream.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a5">
+            <ANNOTATION_VALUE>As they drew near this place of daylight, light enveloped them.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a6">
+            <ANNOTATION_VALUE>They will decide.  Which of us will take the light?</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a7">
+            <ANNOTATION_VALUE>It would be bad if we both were to go, because we would be known to be going after this light.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a8">
+            <ANNOTATION_VALUE>We will steal it from where it is.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+      <ANNOTATION>
+         <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a9">
+            <ANNOTATION_VALUE>He snatched the daylight and ran off with it.</ANNOTATION_VALUE>
+         </REF_ANNOTATION>
+      </ANNOTATION>
+   </TIER>
+   <LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="speech" TIME_ALIGNABLE="true"/>
+   <LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="morphemes" TIME_ALIGNABLE="false"/>
+   <LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="morphemeGloss" TIME_ALIGNABLE="false"/>
+   <LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="english" TIME_ALIGNABLE="false"/>
+</ANNOTATION_DOCUMENT>
