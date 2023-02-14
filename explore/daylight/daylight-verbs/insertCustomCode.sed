@@ -4,19 +4,19 @@
 # which uses it.
 
 /<!-- headCustomizationHook -->/ {
- r scripts.html
+ r headCustomizations.html
  d
 }
 
 
 /<!-- bodyTopCustomizationHook -->/ {
-  r bodyTop.html
+  r bodyTopCustomizations.html
   d
 }
 
 /<!-- bodyBottomCustomizationHook -->/ {
 
-  r videoEvents.js
+  r bodyBottomCustomizations.html
   d
 
 }

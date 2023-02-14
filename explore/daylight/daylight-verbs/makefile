@@ -1,12 +1,12 @@
 PORT = 8123
 default:
-	@echo targets: venv http eaf extractAudio html kb http.local view.local publish
+	@echo targets: venv http eaf extractAudio html kb custom view.local publish
 
 venv:
 	@echo be sure to run: source /Users/paul/github/slexil2/py3105/bin/activate
 
 http:
-	@echo in a new shell, run: python3 -m http.server $(PORT)
+	@echo in a new shell, run: python3 -m http.server $(PORT) &
 
 eaf:
 	python ~/github/slexil2/yamlToEAF/toEAF.py gettingLight.yaml 
@@ -30,9 +30,6 @@ view-local:
 kb:
 	m4 --quiet -P kb.pre > kb.pre2
 	sed  s/COMMA/,/g kb.pre2 > kb.js
-
-http.local:
-	python3 -m http.server 8123 &
 
 view.local:
 	open http://localhost:8123/daylight-verbs.html
