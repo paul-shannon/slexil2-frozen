@@ -1,11 +1,4 @@
-
-
-
-
-
-
-
-
+m4_include(../kb.m4)m4_dnl
 //------------------------------------------------------------------------------------------------------------------------
 // ʔə
 kb = {
@@ -436,7 +429,7 @@ child, young, youngster (up to 10 or 12 years old).  LD 68
 `,
 
 "ʔu–ʔəƛ̌’–tx̌ʷ":
-`_brought_: <button id="refButton" onclick="ref('PERF');">perfective</button> come <button id="refButton" onclick="ref('ECS');">ECS</button>.
+`_brought_: LINGREF(PERF,perfective) come LINGREF(ECS, ECS).
 - _əƛ̌’_: come.  LD 12
 - _əƛ̌-’tx̌ʷ_: cause to come, bring someone or something.
 - _əƛ̌-’tx̌ʷ tə x̌payʔ_ Bring that cedar!
@@ -449,11 +442,11 @@ child, young, youngster (up to 10 or 12 years old).  LD 68
    `,
 
 "ʔu–ʔux̌ʷ–tx̌ʷ": 
-`_took_: <button id="refButton" onclick="ref('PERF');">perfective</button> go <button id="refButton" onclick="ref('ECS');">ECS</button>.
+`_took_: LINGREF(PERF,perfective) go LINGREF(ECS, ECS).
 `,
 
 "ʔu–ʔux̌ʷ": 
-`_went, going, will go_: <button id="refButton" onclick="ref('PERF');">perfective</button> go.
+`_went, going, will go_: LINGREF(PERF,perfective) go.
 `,
 
 
@@ -465,7 +458,7 @@ child, young, youngster (up to 10 or 12 years old).  LD 68
 "ʔuʔux̌ʷ ti č’ač’as": `_going this youngster_
 [<sub>PRED</sub>ʔuʔux̌ʷ][<sub>DCOMP</sub>[<sub>DEM</sub>ti <sub>AGENT</sub>č’ač’as]]
 
-Marked for perfective aspect, unmarked for <button id="refButton" onclick="ref('TENSE');">tense</button> _ʔuʔux̌ʷ_ could mean _went_, _going_, even _will go_. (LR1.51)
+Marked for perfective aspect, unmarked for LINGREF(TENSE,tense) _ʔuʔux̌ʷ_ could mean _went_, _going_, even _will go_. (LR1.51)
 Hess translates _č’ač’as_ as boy in lesson 1 (LR1.3).  Thus unmarked tense and unmarked gender appear to default
 to past and male.
 `,
@@ -593,32 +586,7 @@ _who now_
 `
 _tried to decide_
 <audio id="theyWillDecideNow"><source src="audio/theyWillDecideNow.wav"/></audio><button onclick="playSample('theyWillDecideNow')">half-speed</button>
-- _ɬu_: anticipated, expected or possible event  LD 147
-     - IRR: irrealis moods, indicating that a certain situation or action is not known to have happened at the moment 
-       the speaker is talking. This contrasts with the realis moods (which in most languages is only the indicative).
-     - Bates and Hess (2001) give similar examples from Lushootseed, and argue that _ɬu_ is a relative future tense marker
-       which places the topic time after an evaluation time (by default, the utterance time)
-     - grammatical mood (also mode)
-     - In linguistics and philosophy, **modality** is the phenomenon whereby language is used to discuss possible
-       situations.  A modal expression may convey that something is likely, desirable, or permissible.
-     - TAM: the expression of three major components of words which lead to or assist with a correct
-       understanding of the speaker's meaning:
-          - Tense, the location in time relative to the speaker, to the time of utterance, to the time of action
-	    or requested action, or stated exactly.
-          - Aspect, whether the action is complete (perfect) or continuous (imperfect) and repetitive.
-          - Mood or Modality, the degree of obligation. Was the part of speech intended to be informative, to be a
-            request, a demand, or an expectation.
-          - For example in English the word "walk" would be used in different ways for the different
-            combinations of TAM:
-               - Tense: He will walk tomorrow, He walked yesterday, He walks or is walking now.
-               - Aspect: He walks (every day), will walk tomorrow, he'll be walking (around noontime
-	         tomorrow), is still walking (now) and has been walking (earlier).
-               - Mode: I can walk. You there! Walk!
-               - In the last example, there is no difference in the articulation of the word although it
-	         is being used in a different way, one for conveying information, the other for instructing.
-          - Some authors extend this term as tense–aspect–mood–evidentiality (tame in short).[3] In some languages, 
-            evidentiality (whether evidence exists for the statement, and if so what kind) and mirativity (surprise)
-	    may also be included.
+- LU
 - _dxʷ<sup>2</sup>_ : lack of control, accidentally, accomplish with difficulty.  LD 86
      - DC: diminished control
 - _ʔiʷ_: decide.  LD 19.
@@ -648,12 +616,7 @@ _they, theirs_
 "tu=dəxʷ=ʔəs–hay–dxʷ=s=əxʷ":
 `
 _past manner state of knowing with.difficulty they now_
-- _tu=_:
-    - past time, especially the remote past.
-    - inflectional past prefix, appearing on any lexical category functioning as predicate or complement.
-    - also _tə-_
-    - LD 22
-    - _=_: clitic boundary
+- TUCl
 - _dəxʷ<sup>2</sup>_ : ADNM (adjunctive nominalizer)  LD 81
     - reason for, place where, time when
     - inflectional prefix marking a subordinate predicate in construction with a fronted adjunct
@@ -674,7 +637,7 @@ _past manner state of knowing with.difficulty they now_
 "diɬ":
 `
 _that_
-- the one who, the thing that, that which, the aforementioned. LD 83 <button id="refButton" onclick="ref('anaphor');">anaphor</button>
+- the one who, the thing that, that which, the aforementioned. LD 83 LINGREF(anaphor, anaphor)
 - pronoun; often used as a one-word predicate followed by a subordinate clause.
   One would expect a demonstrative to introduce a following clause when it serves
   as the complement of the _diɬ_ predicate.  However, all speakers omit this
@@ -724,7 +687,7 @@ finite clause with a Ø (elided) pronoun.
 _ongoing repeating coming of darkness_
 
 
-- _ƛ’u_<sup>1</sup>: habitual action or state; generally, usually. <button id="refButton" onclick="ref('HABITUAL');">HAB</button>.   LD 155. 
+- _ƛ’u_<sup>1</sup>: habitual action or state; generally, usually. LINGREF(HABITUAL, HAB).   LD 155. 
 
 - _bə_: inflectional additive prefix. abbreviated _ADD_.  LD 34  
      - again, anew (of actions or states)
@@ -754,7 +717,7 @@ _ _s=ləx̌-il_: grow light, day.
 "ƛ’u=hagʷ=əxʷ":
 `
 _ongoing for a long time_
-- _ƛ’u_<sup>1</sup>: habitual action or state; generally, usually. <button id="refButton" onclick="ref('HABITUAL');">HAB</button>. LD 155.
+- _ƛ’u_<sup>1</sup>: habitual action or state; generally, usually. LINGREF(HABITUAL, HAB). LD 155.
 -  _haʔkʷ_: variant _hagʷ_. LD 104
      -  ago, for a long time
      - _hagʷəxʷ_:  it has been a long time, it was for a long time
@@ -774,7 +737,7 @@ near now, getting close to this place of daylight:  light now covered them.
      - got covered in light they
      - contraindications:  first three words seem to be a single phonological phrase
      - construing first two words as <i>near they</i> followed by <i>getting close to this place of daylight</i>
-       is consistent with <button id="refButton" onclick="ref('ADDITIVE_vs_SUBORDINATING_STYLE');">additive</button> style.
+       is consistent with LINGREF(ADDITIVE_vs_SUBORDINATING_STYLE, additive) style.
 - <audio id="line22-halfSpeed"><source src="audio/line22-halfSpeed.wav"/></audio><button onclick="playSample('line22-halfSpeed')">half-speed</button>
 - <audio id="line22-part1-halfSpeed"><source src="audio/line22-part1-halfSpeed.wav"/></audio><button onclick="playSample('line22-part1-halfSpeed')">part 1</button>
 - <audio id="line22-part2-halfSpeed"><source src="audio/line22-part2-halfSpeed.wav"/></audio><button onclick="playSample('line22-part2-halfSpeed')">part 2</button>
@@ -803,14 +766,14 @@ _place_
 _became covered in light_
 - Beck and Hess have:
     -  _ƛ’u=ləx̌–il•ič=əxʷ_ 
-    - (HAB=light–INCH•covering=now).   <button id="refButton" onclick="ref('INCH');">INCH</button>
+    - (HAB=light–INCH•covering=now).   LINGREF(INCH, INCH)
     -  I don't hear the _ƛ’u_.
     - I DO hear _lax̌_ in the opening syllable.
 - _ləx̌-il_: grow light, day.
      - _ləx̌_: 
          - light (verb) as in "light a fire", set to burning.  LD 137
          - compare _hud(u)_: burn, fire.  LD 111
-     - _-il_:  reach or achieve a state or position; becoming. derivational suffix; LD 116  <button id="refButton" onclick="ref('DERIVATIONAL_SUFFIX');">derivational suffix</button>
+     - _-il_:  reach or achieve a state or position; becoming. derivational suffix; LD 116  LINGREF(DERIVATIONAL_SUFFIX, derivational suffix)
 - speculative alternative construction:
      - _ləx̌ʷ_: LD 137, see _x̌ac_ 
      - _x̌ac_: LD 256, cover (something)
@@ -829,13 +792,13 @@ _became covered in light_
 `
 _that land upriver_
 - _dxʷ_: CNTRPT, centripetal
-    - A centripetal is an expression of place <button id="refButton" onclick="ref('deixis');">deixis</button> which has a component of meaning indicating movement toward a
+    - A centripetal is an expression of place LINGREF(deixis, deixis) which has a component of meaning indicating movement toward a
       deictic center.
     - A deictic expression is a word or phrase (such as this, that, these, those, now, then, here) that
       points to the time, place, or situation in which a speaker is speaking.
     - Words are deictic if their semantic meaning is fixed but their denoted meaning varies depending on
       time and/or place. Words or phrases that require contextual information to convey any meaning—for
-      example, English pronouns—are deictic. Deixis is closely related to <button id="refButton" onclick="ref('anaphor');">anaphora</button>.
+      example, English pronouns—are deictic. Deixis is closely related to LINGREF(anaphor, anaphora).
     - When an expression refers to another linguistic expression or a piece of discourse, it is discourse deictic.
       When that expression refers to the same item as a prior linguistic expression, it is anaphoric.
 - _q'xʷ_ : located upstream; up.  also _q'ixʷ_, _q'ayxʷ_.  LD 187
@@ -938,24 +901,7 @@ _they walked_
 `
 _(anticipated|imagined|wished|possible) (place-where|time-when|reason-for) their becoming light(footed)_
 
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _dəxʷ<sup>2</sup>_ : ADNM (adjunctive nominalizer)  LD 81
     - reason for, place where, time when
     - inflectional prefix marking a subordinate predicate in construction with a fronted adjunct
@@ -1052,24 +998,7 @@ _go_
 `
 _conjectured going after_
 
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _s=_: nominalizer
 - _ʔu<sup>3</sup>: PRF (perfective aspect) LD 19
     - an action is viewed as a whole, in its entirety
@@ -1187,24 +1116,7 @@ _oh!_
 `
 _catch us (unlikely chase.transitive us)_
 
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _čal(a)_:   chase, follow, pursue, overtake; catch. LD 60
 - _čal-dxʷ_: transitive, catch up with someone LD 60
     -  DC: diminished control, lack of control, accidentally, accomplish with difficulty
@@ -1283,22 +1195,13 @@ _then made ready four.canoes, overturned shovel.nose.canoe, and they jumped over
 `
 _at that time, then_
 
-- _ʔal_: on, along, through, in, at; when.  LD 4
-    - be located at or by some specific point in time or space
-    - preposition of location (space or time).
-    - location with respect to something named
-    - compare _ʔa_: be located
-- _-axʷ_: now, at the particular time.  LD 30
-    - variants: _-əxʷ_, _-haxʷ_, _-həxʷ_
-    - aspectual clitic contrasting an action or state with a former condition
-    - occurs with verbs, adverbs or nouns (especially when the noun in head of predication)
-    - frequently found twice in the same clause, once with an adverb, once with the verb
-    - _ƛ'ubəxʷ ʔupaq'atəbəxʷ ʔə tiʔəʔ sʔəɬəd_: the food ought to be distributed.
+- GQAL
+- EXW
 `,
 
 "čəɬ":
 `
-- _čəɬ <sup>1</sup>_ : we, us; our. LD 63 <button id="refButton" onclick="ref('CED.WORDS');">čəd words</button>
+- _čəɬ <sup>1</sup>_ : we, us; our. LD 63 LINGREF(CED.WORDS, čəd words)
 - _čəɬ <sup>2</sup>_ :
     - make for one's use; go after; hunt for one's own use [Skagit]  LD 63
     - one of a small class of roots for which the expected direct complement patient lacks
@@ -1365,44 +1268,13 @@ _four canoes_
 `
 _then four canoes achieved_
 
-- _tu=_:
-    - past time, especially the remote past.
-    - inflectional past prefix, appearing on any lexical category functioning as predicate or complement.
-    - also _tə-_
-    - LD 22
-    - _=_: clitic boundary
+- TUCl
 - _buus_: four.  LD 42
 - •: lexical suffix boundary (Beck & Hess abbreviations, p55)
 - _•a•_: lexical linking element  LD 27
 - LD 103 implies _algʷiɬ_ means "side of canoe" or "side-by-side canoes"
 - _gʷiɬ_: canoe, waterway; curved side; narrow passageway; lexical suffix. LD 103. see _=ucid_ LD 243.
-- Lexical suffixes
-    - Lexical affixes (or semantic affixes) are bound elements that appear as affixes, but
-      function as **incorporated nouns** within verbs and as elements of nouns. They are similar
-      to word roots/stems in function but similar to affixes in form. Although
-      similar to incorporated nouns, lexical affixes differ in that they never occur as
-      freestanding nouns, i.e. they always appear as affixes.
-    - Lexical affixes are relatively rare. The Wakashan, Salishan, and Chimakuan languages all 
-      have lexical suffixes — the presence of these is an areal feature of the Pacific Northwest
-      of North America.  The lexical suffixes of these languages often show little to no resemblance
-      to free nouns with similar meanings.
-    - In this sense, they are unlike what is usually perceived as derivational affixes, which
-      more often have little concrete meaning, rather serving to identify lexical classes.
-    - Lexical suffixes have gone by several names. Sapir described them, rather than naming them, and
-      called them ''verbal affixes that refer to nouns" (1911:251/1989 [1990]:28);
-    - Reichard called them "nominal suffixes" (1938:601),
-    - Vogt used the term "field-suffixes" (1940:58), and Kuipers divided them into "somatic suffixes"
-      (1967:120) and "non-somatic suffixes" (1967:125).
-    - The usage "1exical suffixes" was first used by Kinkade (1963:352), adopted from Vogt, who used this
-      term, rather, for "a group of suffixes which modify the verb, by changing its
-      syntactical functions or by adding various shades of meaning, as iteration,
-      reciprocity, reflexivity etc."  (1940:56).
-    - Kinkade made the change because of the semantic similarity between these suffixes and usual lexical
-      items (i.e. nouns). The term is now in  general use in discussing this class of affix in Salish,
-      Chemakuan, and Wakashan studies.
-    - A small number of prefixes found in some Salishan languages are often referred to as
-      "lexical prefixes", probably developed by analogy with lexical suffixes; I will not deal with
-      these prefixes here.
+- LEXICAL_SUFFIX
 - _-il<sup>1</sup>_: reach or achieve a state or position; becoming; begin. LD 116
 `,
 
@@ -1627,24 +1499,7 @@ _to become swift; progressive-came.to.be-two-canoes overturned their shovel-nose
 `
 _their hoped for ongoing big-object-jumping_ 
 - <audio id="gwesesaxwebabac"><source src="audio/gwesesaxwebabac.wav"/></audio><button onclick="playSample('gwesesaxwebabac')">play</button>
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _s=_: nominalizer
 - _lə_: action is ongoing, non-circumscribed, continuing, developing. LD 134. PROG (progressive)
 - _saxʷəb_: jump, leap, scamper off, run. contrast with _təlawil_ run for a sustained period.  LD 200.
@@ -1868,7 +1723,7 @@ _they, theirs_
 _in order to, towards the goal of, towards_
 - _dxʷ√ʔal_: toward, until. LD 86, in entry for _dxʷ-_, toward, to.
 - _dxʷ_: CNTRPT, centripetal
-    - an expression of place <button id="refButton" onclick="ref('deixis');">deixis</button> meaning indicating movement toward a
+    - an expression of place LINGREF(deixis, deixis) meaning indicating movement toward a
       deictic center.
 - _ʔal_: at
 `,
@@ -1904,24 +1759,7 @@ _their swiftness_
 `
 _their hoped-for sustained running_
 
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _s=_: nominalizer
 - _ʔu<sup>3</sup>: PRF (perfective aspect) LD 19
     - an action is viewed as a whole, in its entirety
@@ -1948,12 +1786,7 @@ _now (they) washed themselves_
 "tu=c’agʷa–t–sut=əxʷ":
 `
 _now washed themselves_
-- _tu=_:
-    - past time, especially the remote past.
-    - inflectional past prefix, appearing on any lexical category functioning as predicate or complement.
-    - also _tə-_
-    - LD 22
-    - _=_: clitic boundary
+- TUCl
 - _c'agʷa_ :
      - variant of _c'ʔakʷ_ : wash
      - _c'agʷa-d_ : transitive, washed something
@@ -2048,30 +1881,13 @@ _daylight_
 "gʷə=dəxʷ=kʷəd–dxʷ":
 `
 _conjectured hard-to-do taking_
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _dəxʷ<sup>1</sup>_ : predicate adverb, gloss unknown  LD 80
 - _dəxʷ<sup>2</sup>_ : ADNM (adjunctive nominalizer)  LD 81
     - reason for, place where, time when
     - inflectional prefix marking a subordinate predicate in construction with a fronted adjunct
     - creates nominal expressions with the same distribution as relative and headless relative clauses. LG 7.4.2.2
-      used primarily for the nominalization of <button id="refButton" onclick="ref('adjunct');">adjunct</button> and circumstantial expressions, particularly (but not exclusively), 
+      used primarily for the nominalization of LINGREF(adjunct, adjunct) and circumstantial expressions, particularly (but not exclusively), 
       instruments, locations, motivations, and manners, and will be referred to here as an adjunctive nominalizer.
 - _kʷəd(a)_: take, get, hold, grasp; carry in the hand. LD 123
 - _dxʷ_ : lack of control, accidentally, accomplish with difficulty
@@ -2082,24 +1898,7 @@ _conjectured hard-to-do taking_
 "gʷʔəs–čal=əxʷ":
 `
 _how now?_
-- _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+- GWE
 - _ʔəs_: condition or state exists [verbal inflectional prefix of stative aspect]. LD 13
 - _čal_: how? in what condition or state?  LD 60
     - _ʔəs–čal=əxʷ kʷi ɬushuys_: how will he manage?
@@ -2125,12 +1924,7 @@ _how now?_
 "tu=dxʷ–had–had=əxʷ":
 `
 _embarked upon discussing_
-- _tu=_:
-    - past time, especially the remote past.
-    - inflectional past prefix, appearing on any lexical category functioning as predicate or complement.
-    - also _tə-_
-    - LD 22
-    - _=_: clitic boundary
+- TUCl
 - _dxʷ<sup>1</sup>_ : CTD (contained) LD 85
     - permeate, throughtout, filled with, covered with
     - derivational prefix which marks stems as serving to contain, to hold within
@@ -2138,7 +1932,7 @@ _embarked upon discussing_
     - also carrying this prefix are a number of stems referring to matters of the mind, the _x̌əč_. 
 - ʔəhad:
     - _dxʷ√ʔəhad_ talk LD 11
-    - <button id="refButton" onclick="ref('reduplication');">reduplication</button>
+    - LINGREF(reduplication, reduplication)
     - _dxʷ√ʔəhad+ad_ : discuss (this line is the example)  _red3_
     - the root apparently never appears without the prefix
 - _əxʷ_, _axʷ_ : now, at the particular time. LD 30
@@ -2585,7 +2379,7 @@ first SBJ is my interpolation from the audio.
   is just a grammatical expression of that empty third person.  The subject of the second sentence
   is also that, but since it is not nominalized, we have a finite clause with a Ø (elided) pronoun.
 
-  - <button id="refButton" onclick="ref('line1.english');">diagram</button>
+  - LINGREF(line1.english, diagram)
 
 - reminiscent of Genesis 1:3 'And God said, Let there be light; and there was light.'
 `,
@@ -2593,7 +2387,7 @@ first SBJ is my interpolation from the audio.
 "ʔal kʷi tu, ʔal kʷi tuhaʔkʷ gʷəl xʷiʔ gʷətusləx̌il":
 `
 _in remote past, in remote past.of.long.duration: there was no remote.past coming.of.light_
-- topicalization <button id="refButton" onclick="ref('And-fronting');">And-fronting</button>
+- topicalization LINGREF(And-fronting, And-fronting)
 - english: In the distant past, there was no daylight.
    - in the distant past: temporal prepositional phrase
         - preposition: in
@@ -2605,7 +2399,7 @@ _in remote past, in remote past.of.long.duration: there was no remote.past comin
    - Linking verbs include copulas such as the English verb be and its various forms, as well as verbs
      of perception such as look, sound, or taste and some other verbs that describe the subject, such 
      as seem, become, or remain.
-   - <button id="refButton" onclick="ref('COPULA');">copula</button> -  stative verbs. a word or phrase that links the subject of a phrase to a complement (which 
+   - LINGREF(COPULA, copula) -  stative verbs. a word or phrase that links the subject of a phrase to a complement (which 
      describes or renames the subject).
    - The word *there* is used as a pronoun in some sentences, playing the role of a dummy subject,
      normally of an intransitive verb. The "logical subject" of the verb then appears as a
@@ -2631,24 +2425,7 @@ _in remote past, in remote past.of.long.duration: there was no remote.past comin
 "gʷə=tu=s–ləx̌–il":
 `
 _imagined, conjectured, could-it-have-been? long-ago day (coming of light)_
-  - _gʷə_: SBJ (subjunctive) LD 95
-    - if, maybe, might
-    - inflectional subjunctive prefix expressing doubt, events contrary to fact
-    - appears on any lexical category functioning as predicate or complement
-    - _gʷə_ before consonants
-    - The <button id="refButton" onclick="ref('TAM');">subjunctive</button>is a grammatical mood (that is, a way of speaking that allows people to
-      express their attitude toward what they are saying) found in many languages. Subjunctive forms
-      of verbs are typically used to express various states of unreality such as wish, emotion,
-      possibility, judgement, opinion, obligation, or action that have not yet occurred; the precise
-      situations in which they are used vary from language to language. The subjunctive is an
-      irrealis mood (one that does not refer directly to what is necessarily real) – it is often
-      contrasted with the indicative, which is a realis mood (used principally to indicate that
-      something is a statement of fact).
-    - see tense, aspect, mood <button id="refButton" onclick="ref('TAM');">TAM</button>: location, extension and reality of an action or state.
-    - In classic formal approaches to <a href="https://en.wikipedia.org/wiki/Modality_(natural_language)" target="_blank">linguistic modality</a>, an utterance expressing modality is one that
-      can always roughly be paraphrased to fit the following template:
-      According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
-    
+  - GWE
   - _tu_
      - past time, especially the remote past
      - inflectional past prefix, appearing on any lexical category functioning as predicate or complement
@@ -3000,18 +2777,18 @@ _this_
 
 "ti":
 `
-- this particular one:  an adjectival <button id="refButton" onclick="ref('demonstrative');">demonstrative</button> <button id="refButton" onclick="ref('determiner');">determiner</button> of unique reference  LD 224.  feminime tsi
+- this particular one:  an adjectival LINGREF(demonstrative, demonstrative) LINGREF(determiner, determiner) of unique reference  LD 224.  feminime tsi
 - can be proximal adjectival or pronomial demonstrative
 - tiʔiɬ: that, adjectival or pronomial, femimine tsiʔiɬ
 - tiʔəʔ: this SL: ti
 - tsiʔəʔ: feminine
 - kʷi: hyptothetical or remote adjectival demonstrative
 - *demonstratives* are words, such as this and that, used to indicate which entities are being
-  referred to and to distinguish those entities from others. They are typically <button id="refButton" onclick="ref('deixis');">deictic</button> - their
+  referred to and to distinguish those entities from others. They are typically LINGREF(deixis, deictic) - their
   meaning depending on a particular frame of reference and cannot be understood without
   context. Demonstratives are often used in spatial deixis (where the speaker or sometimes the
   listener are to provide context), but also in intra-discourse reference (including abstract
-  concepts) or <button id="refButton" onclick="ref('anaphor');">anaphora</button> where the meaning is dependent on something other than the relative
+  concepts) or LINGREF(anaphor, anaphora) where the meaning is dependent on something other than the relative
   physical location of the speaker, for example whether something is currently being said or was
   said earlier.
 `,

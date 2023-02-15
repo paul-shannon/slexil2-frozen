@@ -749,8 +749,9 @@
   });  // document ready
   //-------------------------------------------------------------------------
   function installCurrentLineHandlers(){
-    $(".grammatical-term, .lushootseed-morpheme, .speech-tier").unbind("mouseenter mouseleave")
-    $(".currentLine").find(".grammatical-term, .lushootseed-morpheme, .speech-tier")
+    $(".grammatical-term, .morpheme-cell, .speech-tier").unbind("mouseenter mouseleave")
+    //$(".currentLine").find(".grammatical-term, .lushootseed-morpheme, .speech-tier")
+    $(".currentLine").find(".grammatical-term, .morpheme-cell, .speech-tier")
       .mouseenter(function(e){
          $(this).addClass("highlight");
          var key = this.innerHTML
