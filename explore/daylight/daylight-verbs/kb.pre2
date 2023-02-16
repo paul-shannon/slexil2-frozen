@@ -18,8 +18,14 @@ kb = {
  -  *pəqʷ*: see pkʷ(u)    LD 161
  -  *pkʷ(u)*:  also recorded pqʷ(u), peqʷ(u): break off a piece (leaving a larger portion) LD 163
  -  *peqʷyid*: break off a piece so he can have some
- -  *bi-*:
- -  *di*:
+ -  *-bi-*:  secondary derivational suffix, compare *-i-*
+ -  *-i-*:
+        - secondary stem extender, allows transitive *-d* forms to be derived from roots
+	  which normally lack a patient
+	- *tr* **saxʷ-əb-i-d** ran after something
+	- *tr* **dᶻkʷ=šad-i-d** shake someone by the foot
+	- *tr* **haʔl-i-d** make something nice
+ -  *d*:
  -  *=s*:
 `,
 

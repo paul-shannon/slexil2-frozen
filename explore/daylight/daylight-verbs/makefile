@@ -1,12 +1,15 @@
 PORT = 8123
 default:
-	@echo targets: venv http eaf extractAudio html kb custom view.local publish
+	@echo targets: venv http find.port eaf extractAudio html kb custom view.local publish
 
 venv:
 	@echo be sure to run: source /Users/paul/github/slexil2/py3105/bin/activate
 
 http:
-	@echo in a new shell, run: python3 -m http.server $(PORT) &
+	python3 -m http.server $(PORT) &
+
+find.port:
+	lsof -i -n -P | grep TCP | grep $(PORT)
 
 eaf:
 	python ~/github/slexil2/yamlToEAF/toEAF.py gettingLight.yaml 
