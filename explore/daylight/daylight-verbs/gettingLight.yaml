@@ -102,9 +102,33 @@ lines:
 #
 #   #  77:   5 33 400 (start)  5 36 189
 #
+  - lineNumber: 66
+    startTime: 283259
+    endTime:   289790
+    lushootseed: (66) ʔaləxʷ sɬixʷəɬdacuts kʷi sʔaʔs bibščəb gʷəl ʔux̌ʷc tiʔəʔ sləx̌il
+    morphemes: [ʔal=əxʷ,s=ɬixʷ•əɬ•dat–t–sut=s,kʷi,s=ʔaʔ=s,bi–bəščəb,gʷəl,ʔux̌ʷ–c,tiʔəʔ,sləx̌il]
+    morphemeGloss: [at=now,nm=three•cls•day–ics–refl=3po,rem,nm=be.there=3po,attn–mink,sconj,go–altv,prox,daylight]
+    english: When it was three days that Little Mink was there, then he went after the daylight.
+
+  - lineNumber: 67
+    startTime: 288246
+    endTime:   292518
+    lushootseed: (67) xʷiʔ uʔxʷ gʷəsɬaʔ ʔə tiʔəʔ čaləs
+    morphemes: [xʷiʔ,uʔxʷ,gʷə=s=ɬaʔ,ʔə,tiʔəʔ,čaləs–s]
+    morphemeGloss: [neg,ptcl,sbj=nm=arrive,pr,prox,hand-3PO]
+    english: He can not reach it with his hand.
+
+  - lineNumber: 68
+    startTime: 292453
+    endTime:   294115
+    lushootseed: (68) ƛ’al’ lil gwəl ləx̌
+    morphemes: [ƛ’al’,lil,gwəl, ləx̌]
+    morphemeGloss: [also, far, sconj, light]
+    english: It was still far away when it lit up.
+
+
   - lineNumber: 77
     startTime: 332187
-#    startTime: 323973
     endTime: 336189
     lushootseed: (77) diɬ tuspəkʷibids tiʔəʔ sləx̌il gʷəl tusaxʷəbtxʷ
     morphemes: [diɬ,tu=s=pəkʷib–bi–d=s,tiʔəʔ,sləx̌il,gʷəl,tu=saxʷəb–txʷ]

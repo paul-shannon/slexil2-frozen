@@ -16,10 +16,11 @@ kb = {
 
  -  past=nominalizer=
  -  *pəqʷ*: see pkʷ(u)    LD 161
- -  *pkʷ(u)*:  also recorded pqʷ(u), peqʷ(u): break off a piece (leaving a larger portion) LD 163
- -  *peqʷyid*: break off a piece so he can have some
- -  *-bi-*:  secondary derivational suffix, compare *-i-*
- -  *-i-*:
+        -  *pkʷ(u)*:  also recorded pqʷ(u), peqʷ(u): break off a piece (leaving a larger portion) LD 163
+        -  *peqʷyid*: break off a piece so he can have some.
+	     **LG** NL, Skagit speaker, resident of Nooksack. Hess; Hilbert;
+ -  *-bi-*:  secondary derivational suffix, compare *-i-*.  LD 39.
+ -  *-i-*:  LD 114.
         - secondary stem extender, allows transitive *-d* forms to be derived from roots
 	  which normally lack a patient
 	- *tr* **saxʷ-əb-i-d** ran after something
@@ -491,6 +492,19 @@ to past and male.
 109: _tu=gʷəč’–d_
 `,
     
+"tu=saxʷəb–txʷ":
+`
+  - *tu*: past
+  - *saxʷəb*: jump
+  - *-txʷ*: make someone do something.  LD 231
+       - causative transitive suffix creating patient-oriented verb stems
+       - creates a transitive stem (verb?) that take a direct object
+       - ECS: external causative.
+       - see David's <a href="https://sites.ualberta.ca/~dbeck/valency.pdf" target="_blank"> A taxonomy of valency-increasing affixes</a>
+       - wikipedia:  a valency-increasing operation that indicates that a subject either causes someone or something else to do or be something or causes a change in state of a non-volitional event. Normally, it brings in a new argument (the causer), A, into a transitive clause, with the original subject S becoming the object O.
+       - Mink jumped with, took, jumped away with (the light)
+`,
+
 "(77) diɬ tuspəkʷibids tiʔəʔ sləx̌il gʷəl tusaxʷəbtxʷ":
 `
 77: _tu=s=pəkʷib–bi–d=s_
