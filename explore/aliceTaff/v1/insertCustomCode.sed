@@ -3,11 +3,10 @@
 # is a few tags to include the knowledge base (kb.js) and code + css
 # which uses it.
 
-# /<!-- headCustomizationHook -->/ {
-#  someFile
-#  d
-#}
-
+/<!-- headCustomizationHook -->/ {
+ r headCustomizations.html
+ d
+}
 
 /<!-- bodyTopCustomizationHook -->/ {
   r bodyTop.html
@@ -16,7 +15,7 @@
 
 /<!-- bodyBottomCustomizationHook -->/ {
 
-  r videoEvents.js
+  r bodyBottom.html
   d
 
 }

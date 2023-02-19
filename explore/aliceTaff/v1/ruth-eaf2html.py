@@ -18,7 +18,7 @@ tierGuideFile= "tierGuide.yaml"
 grammaticalTermsFile="grammaticalTerms.txt"
 
 text = Text(elanXmlFilename, audioFilename, grammaticalTermsFile, tierGuideFile,
-            projectDirectory, lineNumberForDebugging=1, quiet=False)
+            projectDirectory, lineNumberForDebugging=None, quiet=True)
 print(text.getTierSummary())
 
 htmlText = indent(text.toHTML())

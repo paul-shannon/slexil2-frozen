@@ -11,6 +11,39 @@
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./1RuthNora2Wide.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5f15f2b3-cfc1-4372-a908-ce1429b7a40e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1695</PROPERTY>
+
+        <PROPERTY NAME="docmetadata_setting">Speakers are Ḵeixwnéi Nora
+        Dauenhauer, Ḵaanáḵ Ruth Demmert, and G̱uneiwtí Marsha Hotch. Recorded
+        June 29, 2007, at Bill Ray Center in Juneau, Alaska, by Ljáaḵkʼ Alice
+        Taff.
+
+        This material is based on work supported by National Science Foundation
+        grant 0853788 to the University of Alaska Southeast with Ljáaḵkʼ Alice
+        Taff as Principal Investigator, and by National Endowment for the
+        Humanities fellowship 266286-19 to Ljáaḵkʼ Alice Taff. Any opinions,
+        findings, and conclusions or recommendations expressed in this material
+        are those of the authors and do not necessarily reflect the views of the
+        National Science Foundation or National Endowment for the Humanities.
+        ḴND =  Ḵeixwnéi Nora Dauenhauer.
+        ḴRD =    Ḵaanáḵ Ruth Demmert.
+        G̱MH = G̱uneiwtí Marsha Hotch.
+        </PROPERTY>
+
+        <PROPERTY NAME="docmetadata_processing">Tlingit transcription by
+        Daaljíni Mary Folletti and Kingeistí David Katzeek. English translation
+        by Daaljíni Mary Foletti. Edited by X̱’aagi Sháawu Keri Edwards Eggleston
+        and Ḵaachkoo.aaḵw Helen Sarabia, also by X̱ʼunei Lance
+        Twitchell.
+
+        SYMBOLS: Brackets = {false start}, (added for clarity),
+        [translator/transcriber's note]. ??? = canʼt understand. «quotation
+        marks for Tlingit text (so as not to be confused with Tlingit ʼ)»
+        [Time-aligned text for this video was accomplished using ELAN ((Versions
+        6.0 (2020), 6.1 (2021), and 6.3 (2022) [Computer software].  Nijmegen:
+        Max Planck Institute for Psycholinguistics, The Language
+        Archive. Retrieved from https://archive.mpi.nl/tla/elan]
+        </PROPERTY>
+
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="116"/>
@@ -355,18 +388,6 @@
         <TIME_SLOT TIME_SLOT_ID="ts340" TIME_VALUE="516293"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="utterance">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1356"
-                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Speakers are Ḵeixwnéi Nora Dauenhauer, Ḵaanáḵ Ruth Demmert, and G̱uneiwtí Marsha Hotch. Recorded June 29, 2007, at Bill Ray Center in Juneau, Alaska, by Ljáaḵkʼ Alice Taff.</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1358"
-                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>Tlingit transcription by Daaljíni Mary Folletti and Kingeistí David Katzeek. English translation by Daaljíni Mary Foletti. Edited by X̱’aagi Sháawu Keri Edwards Eggleston and Ḵaachkoo.aaḵw Helen Sarabia, also by X̱ʼunei Lance Twitchell. </ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1376"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
@@ -1378,16 +1399,6 @@
     </TIER>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
         PARENT_REF="utterance" TIER_ID="translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1364" ANNOTATION_REF="a1356">
-                <ANNOTATION_VALUE>This material is based on work supported by National Science Foundation grant 0853788 to the University of Alaska Southeast with Ljáaḵkʼ Alice Taff as Principal Investigator, and by National Endowment for the Humanities fellowship 266286-19 to Ljáaḵkʼ Alice Taff. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation or National Endowment for the Humanities.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1366" ANNOTATION_REF="a1358">
-                <ANNOTATION_VALUE>SYMBOLS: Brackets = {false start}, (added for clarity), [translator/transcriber's note]. ??? = canʼt understand. «quotation marks for Tlingit text (so as not to be confused with Tlingit ʼ)»        [Time-aligned text for this video was accomplished using ELAN ((Versions 6.0 (2020), 6.1 (2021), and 6.3 (2022) [Computer software].  Nijmegen: Max Planck Institute for Psycholinguistics, The Language Archive. Retrieved from https://archive.mpi.nl/tla/elan]</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1381" ANNOTATION_REF="a1376">
                 <ANNOTATION_VALUE>Dis Tlein is October.</ANNOTATION_VALUE>
@@ -3085,16 +3096,6 @@
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="utterance" PARENT_REF="utterance" TIER_ID="Speaker Initials">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1399" ANNOTATION_REF="a1356">
-                <ANNOTATION_VALUE>ḴND =  Ḵeixwnéi Nora Dauenhauer. ḴRD =    Ḵaanáḵ Ruth Demmert.   G̱MH = G̱uneiwtí Marsha Hotch.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1400" ANNOTATION_REF="a1358">
-                <ANNOTATION_VALUE/>
-            </REF_ANNOTATION>
-        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1401" ANNOTATION_REF="a1376">
                 <ANNOTATION_VALUE>ḴRD</ANNOTATION_VALUE>
