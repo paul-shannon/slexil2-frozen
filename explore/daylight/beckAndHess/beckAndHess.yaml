@@ -182,6 +182,237 @@ lines:
     morphemeGloss: [only=now,pl,past=prog=near–inch,cntrpt–at,prox,adnm=be.there,pr,rem,daylight,hab=light–inch•covering=now,pl]
     english: As they drew near this place of daylight, light enveloped them.
 
+  - lineNumber: 23
+    startTime: 120007
+    endTime:   123535
+    lushootseed: ƛ’uhagʷəxʷ kʷi ƛ’usləx̌ils gʷəl ƛ’ubələbəsad
+    morphemes: [ƛ’u=hagʷ=əxʷ,kʷi,ƛ’u=s=ləx̌–il=s,gʷəl,ƛ’u=bə=lə=bəsad]
+    morphemeGloss: [hab=long.time=now,rem,hab=nm=light–inch=3po,sconj,hab=add=prog=dark]
+    english: For a long time it would be day then it would again be dark.
+
+  - lineNumber: 24
+    startTime: 125151
+    endTime:   126604
+    lushootseed: diɬ tudəxʷəshaydxʷsəxʷ əlgʷəʔ
+    morphemes: [diɬ,tu=dəxʷ=ʔəs–hay–dxʷ=s=əxʷ,əlgʷəʔ]
+    morphemeGloss: [foc,past=adnm=stat–known–dc=3po=now,pl]
+    english: That is how they knew.
+
+  - lineNumber: 25
+    startTime: 126604
+    endTime:   127885
+    lushootseed: ləč’itiləxʷ čəɬ
+    morphemes: [lə=č’it–il=əxʷ,čəɬ]
+    morphemeGloss: [prog=near–inch=now,1pl.sub]
+    english: “We are getting near.”
+
+  - lineNumber: 26
+    startTime: 128243
+    endTime:   131168
+    lushootseed: gʷəl tuɬəgʷɬ əlgʷəʔ tiʔəʔ q’il’bids gʷəl tugʷax̌ʷ
+    morphemes: [gʷəl,tu=ɬəgʷɬ,əlgʷəʔ,tiʔəʔ,q’il’bid–s,gʷəl,tu=gʷax̌ʷ]
+    morphemeGloss: [sconj,past=leave,pl,prox,canoe–3po,sconj,past=walk]
+    english: Then they left their canoe and walked.
+
+
+  - lineNumber: 27
+    startTime: 133983
+    endTime:   143494
+    lushootseed: tugʷax̌ʷəxʷ əlgʷəʔ gʷəl tuɬčil dxʷʔal tiʔəʔ diʔəʔ ʔaciɬtalbixʷ ʔəsɬaɬlil dəxʷʔa ʔə tiʔəʔ sləx̌il
+    morphemes: [tu=gʷax̌ʷ=əxʷ,əlgʷəʔ,gʷəl,tu=ɬčil,dxʷ–ʔal,tiʔəʔ,diʔəʔ,ʔaciɬtalbixʷ,ʔəs–ɬaɬlil,dəxʷ=ʔa,ʔə,tiʔəʔ,sləx̌il]
+    morphemeGloss: [past=walk=now,pl,sconj,past=arrive,cntrpt–at,prox,here,people,stat–live,adnm=be.there,pr,prox,daylight]
+    english: They walked now and arrived at these people who dwelled at the place of light.
+
+  - lineNumber: 28
+    startTime: 144964
+    endTime:   146642
+    lushootseed: ɬudxʷʔiʷədəxʷ əlgʷəʔ
+    morphemes: [ɬu=dxʷ–ʔiʷəd=əxʷ,əlgʷəʔ]
+    morphemeGloss: [irr=ctd–decide=now,pl]
+    english: They will decide.
+
+  - lineNumber: 29
+    startTime: 146643
+    endTime:   149232
+    lushootseed: gʷatəxʷ ʔə dibəɬ kʷi ɬuʔux̌ʷtxʷ kʷi sləx̌il
+    morphemes: [gʷat=əxʷ,ʔə,dibəɬ,kʷi,ɬu=ʔux̌ʷ–txʷ,kʷi,sləx̌il]
+    morphemeGloss: [who=now,pr,we,rem,irr=go–ecs,rem,daylight]
+    english: “Which of us will take the light?"
+
+  - lineNumber: 30
+    startTime: 149490
+    endTime:   151389
+    lushootseed: gʷəsdukʷ gʷəbək’ʷaɬi gʷəʔux̌ʷ
+    morphemes: [gʷə=s=dukʷ,gʷə=bək’ʷ=aɬi,gʷə=ʔux̌ʷ]
+    morphemeGloss: [sbj=nm=anormal,sbj=all=1pl.sbj,sbj=go]
+    english: “It would be bad if we both were to go."
+
+  - lineNumber: 31
+    startTime: 151371
+    endTime:   154557
+    lushootseed: yəx̌i čəɬ gʷəhaydub ləʔux̌ʷc čəɬ tiʔəʔ sləx̌il
+    morphemes: [yəx̌i,čəɬ,gʷə=hay–dxʷ–b,lə=ʔux̌w–c,čəɬ,tiʔəʔ,sləx̌il]
+    morphemeGloss: [because,1pl.sub,sbj=known–dc–pass,prog=go–altv,1pl.sub,prox,daylight]
+    english: “Because we would be known to be going after this light."
+
+  - lineNumber: 32
+    startTime: 154557
+    endTime:   157111
+    lushootseed: ɬuqadabid čəɬ ʔal kʷi ɬudəxʷʔacəc
+    morphemes: [ɬu=qada–bi–d,čəɬ,ʔal,kʷi,ɬu=dəxʷ=ʔacəc]
+    morphemeGloss: [irr=steal–ss–ics,1pl.sub,at,rem,irr=adnm=be.in.place]
+    english: “We will steal it from where it is.”
+
+  - lineNumber: 33
+    startTime: 159239
+    endTime:   163058
+    lushootseed: tucutəxʷ tiʔəʔ diʔəʔ bibščəb
+    morphemes: [tu=cut=əxʷ,tiʔəʔ,diʔəʔ,bi–bəščəb]
+    morphemeGloss: [past=say=now,prox,here,attn–mink]
+    english: Little Mink said,
+
+  - lineNumber: 34
+    startTime: 163070
+    endTime:   164214  
+    lushootseed: ʔəca kʷi ɬuhədʔiʷ’b
+    morphemes: [ʔəca,kʷi,ɬu=hədʔiʷ’–b]
+    morphemeGloss: [I,rem,irr=indoors–pass]
+    english: “I am the one who will enter the building.”
+
+  - lineNumber: 35
+    startTime: 165338
+    endTime:   170420
+    lushootseed: kayiɬ čəd ɬuləluluƛ’ ɬasqʷəlubus, ɬasx̌ʷal’
+    morphemes: [kayiɬ,čəd,ɬu=lə=lu–luƛ’,ɬu=ʔas–qʷəlub•us,ɬu=ʔas–x̌ʷal’]
+    morphemeGloss: [pretend,1sg.sub,irr=prog=attn–old,irr=stat–grey.hair•head,irr=stat–fail]
+    english: “I will pretend to be old and grey and feeble.”
+
+  - lineNumber: 36
+    startTime: 170420
+    endTime:   172233
+    lushootseed: ɬasck’usəd ɬuhədʔiʷ’bəd
+    morphemes: [ɬu=ʔas–ck’usəd,ɬu=hədʔiʷ’–b=əd]
+    morphemeGloss: [irr=stat–walking.stick,irr=indoors–md=1sg.sbj]
+    english: “Using a cane I will go in.”
+
+  - lineNumber: 37
+    startTime: 174198
+    endTime:   177583
+    lushootseed: ɬuləʔux̌ʷ čəd dxʷʔal kʷi siʔab ʔabsləx̌il
+    morphemes: [ɬu=lə=ʔux̌ʷ,čəd,dxʷ–ʔal,kʷi,siʔab,ʔas–bəs–sləx̌il]
+    morphemeGloss: [irr=prog=go,1sg.sub,cntrpt–at,rem,noble,stat–prop–daylight]
+    english: “I will go to the nobleman who has the daylight.”
+
+  - lineNumber: 38
+    startTime: 177583
+    endTime:   178911
+    lushootseed: dəxʷʔaʔ kʷi ɬudsʔaʔ
+    morphemes: [dəxʷ=ʔaʔ,kʷi,ɬu=d=s=ʔaʔ]
+    morphemeGloss: [adnm=be.there,rem,irr=1sg.po=nm=be.there]
+    english: “There is where I will be.”
+
+  - lineNumber: 39
+    startTime: 180702
+    endTime:   182120
+    lushootseed: cuuc tiʔəʔ qaw’qs
+    morphemes: [cut–c,tiʔəʔ,qaw’qs]
+    morphemeGloss: [say–altv,prox,raven]
+    english: Raven said to him,
+
+  - lineNumber: 40
+    startTime: 182120
+    endTime:   184195
+    lushootseed: ɬuʔal tiʔəʔ diʔəʔ kʷi ɬudsʔacəc
+    morphemes: [ɬu=ʔal,tiʔəʔ,diʔəʔ,kʷi,ɬu=d=s=ʔacəc]
+    morphemeGloss: [irr=at,prox,here,rem,irr=1sg.po=nm=be.in.place]
+    english: “I will be at this place here.”
+
+  - lineNumber: 41
+    startTime: 184772
+    endTime:   186938
+    lushootseed: ɬasʔaciɬ čəd dxʷʔal kʷi ɬadsʔəƛ’txʷ
+    morphemes: [ɬu=ʔas–ʔaciɬ,čəd,dxʷ–ʔal,kʷi,ɬu=ad=s=ʔəƛ’–txʷ]
+    morphemeGloss: [irr=stat–pause,1sg.sub,cntrpt–at,rem,irr=2sg.po=nm=come–ecs]
+    english: “I will wait for you to bring it.”
+
+  - lineNumber: 42
+    startTime: 188290
+    endTime:   195979
+    lushootseed: siʔ ƛ’ub ɬadsəsƛ’ip’aɬəd čəxʷa ɬuɬčil dxʷdiʔaʔ gʷəl ʔəcahəxʷ kʷi ɬubəkʷədad, ɬukʷədadxʷaxʷ
+    morphemes: [siʔ,ƛ’ub,ɬu=ad=s=ʔəs–ƛ’ip’–aɬ–d,čəxʷa,ɬu=ɬčil,dxʷ–diʔaʔ,gʷəl,ʔəca=əxʷ,kʷi,ɬu=bə=kʷəda–d,ɬu=kʷəda–dxʷ=axʷ]
+    morphemeGloss: [right.there,well,irr=2sg.po=nm=stat–squeeze–incrp–ics,2sg.coord,irr=arrive,cntrpt–prox.dma,sconj,I=now,rem,irr=add=taken–ics,irr=taken–dc=now]
+    english: “Just so will you be clutching it and you will arrive here, and I am the one who will take it anew.”
+
+  - lineNumber: 43
+    startTime: 198826
+    endTime:   199950
+    lushootseed: tutəlaʷiləxʷ
+    morphemes: [tu=təlaʷil=əxʷ]
+    morphemeGloss: [past=run=now]
+    english: (Little Mink) ran.
+
+  - lineNumber: 44
+    startTime: 199964
+    endTime:   204562
+    lushootseed: tuʔux̌ʷəxʷ tiʔəʔ bibščəb gʷəl tuɬčil dxʷʔal tiʔəʔ diʔəʔ siʔab ʔabsləx̌il
+    morphemes: [tu=ʔux̌ʷ=əxʷ,tiʔəʔ,bi–bəščəb,gʷəl,tu=ɬčil,dxʷ–ʔal,tiʔəʔ,diʔəʔ,siʔab,ʔas–bəs–sləx̌il]
+    morphemeGloss: [past=go=now,prox,attn–mink,sconj,past=arrive,cntrpt–at,prox,here,noble,stat–prop–daylight]
+    english: Little Mink went and he came to the nobleman who had daylight.
+
+
+  - lineNumber: 45
+    startTime: 205250
+    endTime:   211086
+    lushootseed: ləluƛ’ ʔəsqʷəlubus ləsck’usəd
+    morphemes: [lə=luƛ’,ʔəs–qʷəlub•us,ləs–ck’usəd]
+    morphemeGloss: [prog=old,stat–grey.hair•head,prog.stat–use.walking.stick]
+    english: He was old with grey hair and used a cane.
+
+
+  - lineNumber: 46
+    startTime: 211447
+    endTime:   213470
+    lushootseed: šudub ʔə tiʔəʔ ʔaciɬtabixʷ
+    morphemes: [šuɬ–dxʷ–b,ʔə,tiʔəʔ,ʔaciɬtabixʷ]
+    morphemeGloss: [see–dc–pass,pr,prox,people]
+    english: He was seen by these people.
+
+  - lineNumber: 47
+    startTime: 213471
+    endTime:   216328
+    lushootseed: ʔuˑ dč’aʔkʷbixʷ ʔaciɬtalbixʷ tiʔəʔ ʔuɬčil
+    morphemes: [ʔu,dč’aʔkʷbixʷ,ʔaciɬtalbixʷ,tiʔəʔ]
+    morphemeGloss: [intj,different.tribe,people,prox]
+    english: “Oh, a person of a different tribe has arrived.”
+
+  - lineNumber: 48
+    startTime: 216963
+    endTime:   218338
+    lushootseed: cutəxʷ bibščəb
+    morphemes: [cut=əxʷ,bi–bəščəb]
+    morphemeGloss: [say=now,attn–mink]
+    english: Little Mink said.
+
+  - lineNumber: 49
+    startTime: 218338
+    endTime:   220108
+    lushootseed: ʔuˑ sʔušəbabdxʷ čəd
+    morphemes: [ʔu,sʔušəbabdxʷ,čəd]
+    morphemeGloss: [intj,poor.guy,1sg.sub]
+    english: “Oh, I am poor.”
+
+  - lineNumber: 50
+    startTime: 220203
+    endTime:   225684
+    lushootseed: xʷiʔ kʷi stab gʷubəq’əd čəd gʷəʔəɬəd
+    morphemes: [xʷiʔ,kʷi,stab,gʷə=ʔu–bəq’–d,čəd,gwə=ʔəɬəd]
+    morphemeGloss: [neg,rem,what,sbj=pfv–have.in.mouth–ics,1sg.sub,sbj=feed.on]
+    english: “I have nothing to put in my mouth to eat.”
+
+
+
+#     english: “”
+
 #  these are approximate end times for the specified lines
 # line 66: ~ 4'52'005
 #      68:   4 55 50
