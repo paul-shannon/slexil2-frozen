@@ -409,9 +409,209 @@ lines:
     morphemeGloss: [neg,rem,what,sbj=pfv–have.in.mouth–ics,1sg.sub,sbj=feed.on]
     english: “I have nothing to put in my mouth to eat.”
 
+  - lineNumber: 51
+    startTime: 225684
+    endTime:   234045
+    lushootseed: xʷiʔəxʷ kʷi gʷatəxʷ ʔal cəxʷʔaʔ gʷəƛ’ashuyuc haʔɬ, čəda ləʔəƛ’ ləgʷəč’alikʷ dxʷʔal kʷi siʔab ʔabsləx̌il
+    morphemes: [xʷiʔ=əxʷ,kʷi,gʷat=əxʷ,ʔal,d=dəxʷ=ʔaʔ,gʷə=ƛ’u=ʔas–huyu–t–s,haʔɬ,čəda,lə=ʔəƛ’,lə=gʷəč’–alikʷ,dxʷ–ʔal,kʷi,siʔab,ʔas–bəs–sləx̌il]
+    morphemeGloss: [neg=now,rem,who=now,at,1sg.po=adnm=be.there,sbj=hab=stat–made–ics–1sg.obj,good,1sg.coord,prog=come,prog=search–act,cntrpt–at,rem,noble,stat–prop–daylight]
+    english: “There is no one where I am who treats me well, so I am coming, looking for the nobleman who possesses daylight.”
+
+  - lineNumber: 52
+    startTime: 234045
+    endTime:   240531
+    lushootseed: ʔaʔ kʷi ɬudsəsɬaq’ gʷəl ɬuhaʔɬ kʷi gʷədsəshuy
+    morphemes: [ʔaʔ,kʷi,ɬu=d=s=ʔəs–ɬaq’,gʷəl,ɬu=haʔɬ,kʷi,gʷə=d=s=ʔəs–huy]
+    morphemeGloss: [be.there,rem,irr=1sg.po=nm=stat–fallen,sconj,irr=good,rem,sbj=1sg.po=nm=stat–made]
+    english: “There I will lie down and I will be treated well.”
+
+  - lineNumber: 53
+    startTime: 241516
+    endTime:   245159
+    lushootseed: tukʷədatəbəxʷ ʔə tiʔəʔ siʔab tiʔəʔ diʔəʔ luƛ’ gʷəl tucutəb
+    morphemes: [tu=kʷəda–t–b=əxʷ,ʔə,tiʔəʔ,siʔab,tiʔəʔ,diʔəʔ,luƛ’,gʷəl,tu=cut–t–b]
+    morphemeGloss: [past=taken–ics–pass=now,pr,prox,noble,prox,here,old,sconj,past=say–ics–pass]
+    english: The old man was taken by the nobleman and spoken to,
+
+  - lineNumber: 54
+    startTime: 245159
+    endTime:   248534
+    lushootseed: ɬuʔal tudiʔ ʔalq’ʷ kʷi ɬadsəstədzil ɬadsɬagʷid
+    morphemes: [ɬu=ʔal,tudiʔ,ʔalq’ʷ,kʷi,ɬu=ad=s=ʔəs–tədzil,ɬu=ad–sɬagʷid]
+    morphemeGloss: [irr=at,dist.dma,away.from.fire,rem,irr=2sg.po=nm=stat–lie.in.bed,irr=2sg.po–sleeping.mat]
+    english: “There at the back you will lie down, you will have your mat.”
+
+  - lineNumber: 55
+    startTime: 248762
+    endTime:   249615
+    lushootseed: tucutəxʷ
+    morphemes: [tu=cut=əxʷ]
+    morphemeGloss: [past=say=now]
+    english: (Little Mink) spoke,
+
+  - lineNumber: 56
+    startTime: 249615
+    endTime:   251785
+    lushootseed: xʷiʔ, ƛ’ušišədzal čəd ʔal ti ɬax̌
+    morphemes: [xʷiʔ,ƛ’u=ši–šədzal,čəd,ʔal,ti,ɬax̌]
+    morphemeGloss: [neg,hab=attn–go.outdoors,1sg.sub,at,spec,dark]
+    english: “No, I need to go outside a bit during the night.”
+
+  - lineNumber: 57
+    startTime: 252256
+    endTime:   254547
+    lushootseed: ƛ’ub ləq’aɬucid kʷi ɬudsʔaʔ
+    morphemes: [ƛ’ub,ləq’aɬ•ucid,kʷi,ɬu=d=s=ʔaʔ]
+    morphemeGloss: [well,be.in.right.place•mouth,rem,irr=1sg.po=nm=be.there]
+    english: “It is better that I be by the door.”
+
+  - lineNumber: 58
+    startTime: 255149
+    endTime:   258014
+    lushootseed: tuhuyutəbəxʷ ʔə tiʔəʔ dəxʷəsɬaq’s ləq’aɬucid
+    morphemes: [tu=huyu–t–b=əxʷ,ʔə,tiʔəʔ,dəxʷ=ʔəs–ɬaq’=s,ləq’aɬ•ucid]
+    morphemeGloss: [past=made–ics–pass=now,pr,prox,adnm=stat–fallen=3po,be.in.right.place•mouth]
+    english: His place was made by the door.
+
+  - lineNumber: 59
+    startTime: 259370
+    endTime:   265178
+    lushootseed: ƛ’uʔaʔ x̌ʷul’ ƛ’asʷačbid tiʔiɬ ƛ’ashuyutid (kʷi sləx̌il)
+    morphemes: [ƛ’u=ʔaʔ,x̌ʷul’,ƛ’u=ʔas–ʷač–bi–d,tiʔiɬ,ƛ’u=ʔas–huyu–t–id]
+    morphemeGloss: [hab=be.there,only,hab=stat–watch–map–ics,dist,hab=stat–made–ics–pass.sbrd]
+    english: He would be there just watching what was done with it.
+
+  - lineNumber: 60
+    startTime: 265365
+    endTime:   266877
+    lushootseed: x̌ʷul’ ʔəsačbid
+    morphemes: [x̌ʷul’,ʔəs–wač–bi–d]
+    morphemeGloss: [only,stat–watch–map–ics]
+    english: He just watched it.
+
+  - lineNumber: 61
+    startTime: 267240
+    endTime:   272456
+    lushootseed: x̌ʷul’ ƛ’ulədiʔiʔil tiʔiɬ ɬukʷaɬ gʷəl ƛ’uləƛ’ip’usitəb tiʔəʔ sləx̌il
+    morphemes: [x̌ʷul’,ƛ’u=lə=diʔ–iʔ–il,tiʔiɬ,ɬukʷaɬ,gʷəl,ƛ’u=lə=ƛ’ip’•us–i–t–b,tiʔəʔ,sləx̌il]
+    morphemeGloss: [only,hab=prog=exc–other.side–inch,dist,sun,sconj,hab=prog=squeeze•face–ss–ics–pass,prox,daylight]
+    english: As the sun would move to the other side, then the daylight would gradually get its face squeezed shut.
+
+  - lineNumber: 62
+    startTime: 272461
+    endTime:   274923
+    lushootseed: diɬ səɬaˑx̌il
+    morphemes: [diɬ,s=lə=ɬax̌–il]
+    morphemeGloss: [foc,nm=prog=dark–inch]
+    english: It gradually became night.
+
+  - lineNumber: 63
+    startTime: 275250
+    endTime:   276514
+    lushootseed: ƛ’uləƛ’uc’usitəb
+    morphemes: [ƛ’u=lə=ƛ’uc’•us–i–t–b]
+    morphemeGloss: [hab=prog=tied.in.bunch•face–ss–ics–pass]
+    english: It would gradually get its face tied shut.
+
+  - lineNumber: 64
+    startTime: 276514
+    endTime:   277403
+    lushootseed: diɬ sbəsads
+    morphemes: [diɬ,s=bəsad=s]
+    morphemeGloss: [foc,nm=dark=3po]
+    english: It was then that it was dark.
+
+  - lineNumber: 65
+    startTime: 278617
+    endTime:   280761
+    lushootseed: ʔəswačbitəb ʔə bibščəb
+    morphemes: [ʔəs–wač–bi–t–b,ʔə,bi–bəščəb]
+    morphemeGloss: [stat–watch–map–ics–pass,pr,attn–mink]
+    english: It was watched by Little Mink.
+
+  - lineNumber: 66
+    startTime: 283576
+    endTime:   290061
+    lushootseed: ʔaləxʷ sɬixʷəɬdacuts kʷi sʔaʔs bibščəb gʷəl ʔux̌ʷc tiʔəʔ sləx̌il 
+    morphemes: [ʔal=əxʷ,s=ɬixʷ•əɬ•dat–t–sut=s,kʷi,s=ʔaʔ=s,bi–bəščəb,gʷəl,ʔux̌ʷ–c,tiʔəʔ,sləx̌il]
+    morphemeGloss: [at=now,nm=three•cls•day–ics–refl=3po,rem,nm=be.there=3po,attn–mink,sconj,go–altv,prox,daylight]
+    english: When it was three days that Little Mink was there, then he went after the daylight.
+
+  - lineNumber: 67
+    startTime: 290206
+    endTime:   292477
+    lushootseed: xʷiʔ uʔxʷ gʷəsɬaʔ ʔə tiʔəʔ čaləs
+    morphemes: [xʷiʔ,uʔxʷ,gʷə=s=ɬaʔ,ʔə,tiʔəʔ,čalə-s]
+    morphemeGloss: [neg,ptcl,sbj=nm=arrive,pr,prox,hand-3PO]
+    english: He can not reach it with his hand.
+
+  - lineNumber: 68
+    startTime: 292423
+    endTime:   293838
+    lushootseed: ƛ’al’ lil gʷəl ləx̌
+    morphemes: [ƛ’al’,lil,gʷəl,ləx̌]
+    morphemeGloss: [also,far,sconj,light]
+    english: It was still far away when it lit up.
+
+  - lineNumber: 69
+    startTime: 294880
+    endTime:   299721
+    lushootseed: tiləb ʔusaxʷəb bibščəb gʷəl tədᶻil ʔal tiʔiɬ dəxʷəstədᶻils
+    morphemes: [tiləb,ʔu–saxʷəb,bi–bəščəb,gʷəl,tədᶻil,ʔal,tiʔiɬ,dəxʷ=ʔəs–tədᶻil=s]
+    morphemeGloss: [immediately,pfv–jump,attn–mink,sconj,lie.in.bed,at,dist,adnm=stat–lie.in.bed=3po]
+    english: Quickly Little Mink jumped back and lay where he lay down.
+
+  - lineNumber: 70
+    startTime: 298110
+    endTime:   301155
+    lushootseed: ʔəstədᶻilič ʔə diʔ q’ʷaɬčup
+    morphemes: [ʔəs–tədᶻil•ič,ʔə,diʔ,q’ʷaɬ•čup]
+    morphemeGloss: [stat–lie.in.bed•covering,pr,other.side,ash•fire]
+    english: He went to bed covered by fine ash powder.
+
+  - lineNumber: 71
+    startTime: 301151
+    endTime:   303103
+    lushootseed: puʔud tiʔəʔ q’ʷaɬčup gʷəl pədič
+    morphemes: [puʔu–d,tiʔəʔ,q’ʷaɬ•čup,gʷəl,pəd•ič]
+    morphemeGloss: [blow–ics,prox,ash•fire,sconj,buried•covering]
+    english: He blew on this fine ash powder and is buried.
+
+  - lineNumber: 72
+    startTime: 305208
+    endTime:   307270
+    lushootseed: dəb kʷədiʔ ʔiɬlilalʔtxʷ kʷi ʔuƛ’aʔad 
+    morphemes: [dəb,kʷədiʔ,ʔiɬ–lil•alʔtxʷ,kʷi,ʔu–ƛ’aʔa–d]
+    morphemeGloss: [instead,rem.dma,prtv–far•room,rem,pfv–notice–ics]
+    english: The others at the far part of the house noticed it.
 
 
-#     english: “”
+  - lineNumber: 73
+    startTime: 307218
+    endTime:   309084
+    lushootseed: buʔəx̌idəxʷ kʷi [s]ləx̌il kʷi dəxʷwəq’wəq’s
+    morphemes: [bə=ʔu–ʔəx̌id=əxʷ,kʷi,sləx̌il,kʷi,dəxʷ=wəq’–wəq’=s]
+    morphemeGloss: [add=pfv–what.happen=now,rem,daylight,rem,adnm=dstr–blink=3po]
+    english: “Why is the daylight blinking?”
+
+  - lineNumber: 74
+    startTime: 312634
+    endTime:   317797
+    lushootseed: ʔəšuucəb ʔə ti luƛ’ ʔəsbəč ləq’aɬucid ʔəspədpədič ʔə ti q’ʷaɬčup
+    morphemes: [ʔəs–šuɬ–c–b,ʔə,ti,luƛ’,ʔəs–bəč,ləq’aɬ•ucid,ʔəs–pəd–pəd•ič,ʔə,ti,q’ʷaɬ•čup]
+    morphemeGloss: [stat–see–altv–pass,pr,spec,old,stat–fall,in.place•mouth,stat–dstr–buried•covering,pr,spec,ash•fire]
+    english: The old fellow lying by the door covered in fine ash watched it.
+
+  - lineNumber: 75
+    startTime: 319698
+    endTime:   323341
+    lushootseed: ʔal bəƛ’uɬax̌ gʷəl bəʔux̌ʷcəb ʔə bibščəb
+    morphemes: [ʔal,bə=ƛ’u=ɬax̌,gʷəl,bə=ʔux̌ʷ–c–b,ʔə,bi–bəščəb]
+    morphemeGloss: [at,add=hab=dark,sconj,add=go–altv–pass,pr,attn–mink]
+    english: When it would again be night, Little Mink went after it again.
+
+
+
 
 #  these are approximate end times for the specified lines
 # line 66: ~ 4'52'005
