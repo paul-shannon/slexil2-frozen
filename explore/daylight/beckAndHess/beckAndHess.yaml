@@ -804,14 +804,108 @@ lines:
 
   - lineNumber: 100
     startTime: 413439
-    endTime:   414900
+    endTime:   414850
     lushootseed: cutəxʷ ʔə tiʔəʔ bibščəb
     morphemes: [cut=əxʷ,ʔə,tiʔəʔ,bi-bəščəb]
     morphemeGloss: [say=now,pr,prox,attn–mink]
     english: Little Mink said,
 
+  - lineNumber: 101
+    startTime: 414842
+    endTime:   420110
+    lushootseed: ʔaʔ tiʔiɬ dsqəlalitut ɬulaʔ čəd gʷəl ɬuqʷšab tiʔəʔ swatixʷtəd
+    morphemes: [ʔaʔ,tiʔiɬ,d–sqəlalitut,ɬu=laʔ,čəd,gʷəl,ɬu=qʷšab,tiʔəʔ,swatixʷtəd]
+    morphemeGloss: [be.there,dist,1sg.po–spirit.power,irr=localize,1sg.sub,sconj,irr=foggy,prox,land]
+    english: “I have a spirit power that I’ll locate and the land will be foggy.”
 
 
+  - lineNumber: 102
+    startTime: 420266
+    endTime:   425363
+    lushootseed: tuqʷšabičəxʷ əlgʷəʔ gʷəl tux̌ʷilx̌ʷiləxʷ tiʔəʔ ʔaciɬtalbixʷ tuləčalad həlgʷəʔ
+    morphemes: [tu=qʷšab•ič=əxʷ,əlgʷəʔ,gʷəl,tu=x̌ʷil–x̌ʷil=əxʷ,tiʔəʔ,ʔaciɬtalbixʷ,tu=lə=čala–d,həlgʷəʔ]
+    morphemeGloss: [past=foggy•covering=now,pl,sconj,past=dstr–lost=now,prox,people,past=prog=chased–ics,pl]
+    english: The fog covered them and the people who chased them got lost.
+
+
+  - lineNumber: 103
+    startTime: 425396
+    endTime:   426415
+    lushootseed: gʷəl tuʔux̌ʷəxʷ
+    morphemes: [gʷəl,tu=ʔux̌ʷ=əxʷ]
+    morphemeGloss: [sconj,past=go=now]
+    english: And they went.
+
+  - lineNumber: 104
+    startTime: 426415
+    endTime:   429763
+    lushootseed: tut’uk’ʷtxʷəxʷ tiʔəʔ sləx̌il
+    morphemes: [tu=t’uk’ʷ–txʷ=əxʷ,tiʔəʔ,sləx̌il]
+    morphemeGloss: [past=go.home–ecs=now,prox,daylight]
+    english: They took this daylight home.
+
+
+  - lineNumber: 105
+    startTime: 430980
+    endTime:   433193
+    lushootseed: x̌ʷul’əxʷ əlgʷəʔ tuləɬčildxʷ tiʔəʔ
+    morphemes: [x̌ʷul’=əxʷ,əlgʷəʔ,tu=lə=ɬčil–dxʷ,tiʔəʔ]
+    morphemeGloss: [only=now,pl,past=prog=arrive–dc,prox]
+    english: They were just managing to arrive with it.
+
+  - lineNumber: 106
+    startTime: 433249
+    endTime:   436531
+    lushootseed: tuləč’itil-dxʷ ʔal tiʔəʔ swatixʷtəd dəxʷtul’ʔaʔs əlgʷəʔ
+    morphemes: [tu=lə=ɬčil-dxʷ,?al,tiʔəʔ,swatixʷtəd, dəxʷ=tul’–ʔaʔ=s,əlgʷəʔ]
+    morphemeGloss: [past=prog=arrive–dc,at,prox,land,adnm=cntrfg–be.there=3po,pl]
+    english: They were drawing near to this land where they were from.
+
+  - lineNumber: 107
+    startTime: 436624
+    endTime:   439882
+    lushootseed: gʷəl diɬəxʷ kʷi ƛ’ugʷəqilič ʔə tiʔəʔ ʔaciɬtalbixʷ
+    morphemes: [gʷəl,diɬ=əxʷ,kʷi,ƛ’u=gʷəq–il•ič,ʔə,tiʔəʔ,ʔaciɬtalbixʷ]
+    morphemeGloss: [sconj,foc=now,rem,hab=bright–inch•covering,pr,prox,people]
+    english: And sunshine would envelope the people.
+
+  - lineNumber: 108
+    startTime: 440271
+    endTime:   440985
+    lushootseed: tucut
+    morphemes: [tu=cut]
+    morphemeGloss: [past=say]
+    english: They said,
+
+  - lineNumber: 109
+    startTime: 440989
+    endTime:   443819
+    lushootseed: ʔuˑ, ʔuʔəƛ’axʷ ti stububš tugʷəč’əd tiʔiɬ sləx̌il
+    morphemes: [ʔu,ʔu–ʔəƛ’=axʷ,ti,stub–ubš,tu=gʷəč’–d,tiʔiɬ,sləx̌il]
+    morphemeGloss: [intj,pfv–come=now,spec,pl–man,past=search–ics,dist,daylight]
+    english: “Oh, the men who sought the daylight have come.”
+
+
+  - lineNumber: 110
+    startTime: 443819
+    endTime:   444706
+    lushootseed: ʔiɬč’itəxʷ
+    morphemes: [ʔiɬ–č’it=əxʷ]
+    morphemeGloss: [prtv–near=now]
+    english: “They are coming nearer.”
+
+
+
+
+
+
+  - lineNumber: 111
+    startTime: 444706
+    endTime:   446247
+    lushootseed: ləx̌iličəxʷ čəɬ
+    morphemes: [ləx̌–il•ič=əxʷ,čəɬ]
+    morphemeGloss: [light–inch•covering=now,1pl.sub]
+    english: “Light is covering us.”
 
 
 
