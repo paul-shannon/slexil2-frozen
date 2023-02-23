@@ -894,11 +894,6 @@ lines:
     morphemeGloss: [prtv–near=now]
     english: “They are coming nearer.”
 
-
-
-
-
-
   - lineNumber: 111
     startTime: 444706
     endTime:   446247
@@ -906,6 +901,126 @@ lines:
     morphemes: [ləx̌–il•ič=əxʷ,čəɬ]
     morphemeGloss: [light–inch•covering=now,1pl.sub]
     english: “Light is covering us.”
+
+  - lineNumber: 112
+    startTime: 448189
+    endTime:   453649
+    lushootseed: tuʔəƛ’txʷ əlgʷəʔ tiʔəʔ sləx̌il gʷəl tuɬčil dxʷʔal tiʔəʔ sʷatixʷtəd dəxʷtul’ʔaʔs əlgʷəʔ
+    morphemes: [tu=ʔəƛ’–txʷ,əlgʷəʔ,tiʔəʔ,sləx̌il,gʷəl,tu=ɬčil,dxʷ–ʔal,tiʔəʔ,sʷatixʷtəd,dəxʷ=tul’–ʔaʔ=s,əlgʷəʔ]
+    morphemeGloss: [past=come–ecs,pl,prox,daylight,sconj,past=arrive,cntrpt–at,prox,land,adnm=cntrfg–be.there=3po,pl]
+    english: They brought the daylight and came to the land they were from.
+
+
+  - lineNumber: 113
+    startTime: 455188
+    endTime:   459066
+    lushootseed: gʷəl qaw’qs kʷi dᶻixʷ tukʷədad tiʔəʔ sləx̌il
+    morphemes: [gʷəl,qaw’qs,kʷi,dᶻixʷ,tu=kʷəda–d,tiʔəʔ,sləx̌il]
+    morphemeGloss: [sconj,raven,rem,first,past=taken–ics,prox,daylight]
+    english: And Raven took the daylight first.
+
+  - lineNumber: 114
+    startTime: 459065
+    endTime:   460528
+    lushootseed: cədiɬ kʷi tuʷačbid
+    morphemes: [cədiɬ,kʷi,tu=ʷač–bi–d]
+    morphemeGloss: [s/he,rem,past=watch–map–ics]
+    english: The one who watched it was he.
+
+  - lineNumber: 115
+    startTime: 461587
+    endTime:   464040
+    lushootseed: daʔxʷ ƛ’uləɬax̌il gʷəl bələx̌il
+    morphemes: [daʔxʷ,ƛ’u=lə=ɬax̌–il,gʷəl,bə=ləx̌–il]
+    morphemeGloss: [just.now,hab=prog=dark–inch,sconj,add=light–inch]
+    english: No sooner it would become night than it became light again.
+
+  - lineNumber: 116
+    startTime: 464478
+    endTime:   466805
+    lushootseed: ʔəsʔəx̌idəxʷ kʷi ʔaciɬtalbixʷ gʷasʔitutəs
+    morphemes: [ʔəs–ʔəx̌id=əxʷ,kʷi,ʔaciɬtalbixʷ,gʷə=ʔas–ʔitut=əs]
+    morphemeGloss: [stat–what.happen=now,rem,people,sbj=stat–sleep=3sbj]
+    english: Why were the people asleep?
+
+  - lineNumber: 117
+    startTime: 466855
+    endTime:   468314
+    lushootseed: ƛ’al’ uʔxʷ bələx̌il
+    morphemes: [ƛ’al’,uʔxʷ,bə=ləx̌–il]
+    morphemeGloss: [also,ptcl,add=light–inch]
+    english: It had also become light again.
+
+  - lineNumber: 118
+    startTime: 468463
+    endTime:   469579
+    lushootseed: x̌ʷul’ ʔaɬ
+    morphemes: [x̌ʷul’,ʔaɬ]
+    morphemeGloss: [only,fast]
+    english: It was too fast.
+
+  - lineNumber: 119
+    startTime: 472395
+    endTime:   479975
+    lushootseed: ʔabyitəb bibščəb gʷəl haʔkʷ tiʔiɬ ƛ’uləɬax̌ils gʷəl ƛ’usləx̌iˑl ʔə kʷi taʔtəbac
+    morphemes: [ʔab–yi–t–b,bi–bəščəb,gʷəl,haʔkʷ,tiʔiɬ,ƛ’u=lə=ɬax̌–il–s,gʷəl,ƛ’u=s=ləx̌–il,ʔə,kʷi,taʔtəbac]
+    morphemeGloss: [extend–dat–ics–pass,attn–mink,sconj,long.time,dist,hab=prog=dark–inch–3po,sconj,hab=nm=light–inch,pr,rem,slow]
+    english: It was given to Little Mink and for a long time it would be night and grow light slowly.
+
+  - lineNumber: 120
+    startTime: 479976
+    endTime:   483829
+    lushootseed: huy ʔəsaydxʷ tašəɬyačiʔbid tiʔiɬ suhuyuds
+    morphemes: [huy,ʔəs–hay–dxʷ,tu=ʔas–šəɬ•y•ačiʔ–bi–d,tiʔiɬ,s=ʔu–huyu–d=s]
+    morphemeGloss: [sconj,stat–known–dc,past=stat–make•cnn•hand–map–ics,dist,nm=pfv–made–ics=3po]
+    english: Because he knew how it is done with the hands.
+
+  - lineNumber: 121
+    startTime: 484086
+    endTime:   485964
+    lushootseed: gʷəl qaw’qs gʷəl x̌ʷul’ ʔaɬ
+    morphemes: [gʷəl,qaw’qs,gʷəl,x̌ʷul’,ʔaɬ]
+    morphemeGloss: [sconj,raven,sconj,only,fast]
+    english: But Raven, he was too fast.
+
+  - lineNumber: 122
+    startTime: 486116
+    endTime:   488777
+    lushootseed: x̌ʷul’ ʔaʔ tiʔiɬ sɬax̌ils gʷəl bələx̌il
+    morphemes: [x̌ʷul’,ʔaʔ,tiʔiɬ,s=ɬax̌–il=s,gʷəl,bə=ləx̌–il]
+    morphemeGloss: [only,be.there,dist,nm=dark–inch=3po,sconj,add=light–inch]
+    english: Just when it became night then it became day again.
+
+  - lineNumber: 123
+    startTime: 488785
+    endTime:   492996
+    lushootseed: ʔəsʔəx̌idəxʷ kʷi ʔaciɬtalbixʷ gʷastədziləs gʷəl ƛ’al’ uʔxʷ basləx̌il
+    morphemes: [ʔəs–ʔəx̌id=əxʷ,kʷi,ʔaciɬtalbixʷ,gʷə=ʔas–tədzil=əs,gʷəl,ƛ’al’,uʔxʷ,bə=ʔas–ləx̌–il]
+    morphemeGloss: [stat–what.happen=now,rem,people,sbj=stat–lie.in.bed=3sbj,sconj,also,ptcl,add=stat–light–inch]
+    english: Why were the people in bed when it had become light again?
+
+  - lineNumber: 124
+    startTime: 494414
+    endTime:   496050
+    lushootseed: šac’əxʷ tiʔiɬ dsgʷəgʷadgʷəd
+    morphemes: [šac’=əxʷ,tiʔiɬ,d=s=gʷəgʷadgʷəd]
+    morphemeGloss: [finished=now,dist,1sg.po=nm=converse]
+    english: My talking is finished now.
+
+
+
+
+
+
+  - lineNumber: 125
+    startTime: 496058
+    endTime:   497983
+    lushootseed: dəč’uʔ haʔɬ syəyəhub
+    morphemes: [dəč’uʔ,haʔɬ,syəyəhub]
+    morphemeGloss: [one,good,legend]
+    english: It is a good story.
+
+
 
 
 
